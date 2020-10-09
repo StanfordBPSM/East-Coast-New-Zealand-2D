@@ -1,0 +1,8 @@
+Base case with 2 lower SR and thinner basement
+
+Horizon11 calibrated
+Calibrated Horizon 12
+Wanstead 30%Smectite
+More grid points to retain seals
+No lower source rocks
+Fix Horizon 8 Calibration
