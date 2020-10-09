@@ -1,0 +1,773 @@
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+ >>> MESSG: Zero p on level 1 (new_cgc)!
+             max. |u1-u2|, max(|u1|,|u2|) = 0.000D+00 0.992D-02
+ >>> MESSG: Approximation criterion fulfilled (with current value of factor_app_
+ var)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          2
+ L2-resid (before):  0.406D-01
+ L2-resid (after) :  0.000D+00
+ average reduction:  0.000D+00
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ +++ WARNG: norm of quasi residual = 0.000D+00
+ +++ WARNG: norm of real  residual = 0.129D-11
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          1
+ L2-resid (before):  0.978D+01
+ L2-resid (after) :  0.000D+00
+ average reduction:  0.000D+00
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ +++ WARNG: norm of quasi residual = 0.000D+00
+ +++ WARNG: norm of real  residual = 0.164D-11
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          1
+ L2-resid (before):  0.234D+00
+ L2-resid (after) :  0.000D+00
+ average reduction:  0.000D+00
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+ +++ WARNG: norm of quasi residual = 0.907D-32
+ +++ WARNG: norm of real  residual = 0.296D-16
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          2
+ L2-resid (before):  0.392D-01
+ L2-resid (after) :  0.907D-32
+ average reduction:  0.481D-15
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ +++ WARNG: norm of quasi residual = 0.208D-14
+ +++ WARNG: norm of real  residual = 0.996D-11
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          1
+ L2-resid (before):  0.631D+01
+ L2-resid (after) :  0.208D-14
+ average reduction:  0.330D-15
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ +++ WARNG: norm of quasi residual = 0.278D-16
+ +++ WARNG: norm of real  residual = 0.582D-11
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          1
+ L2-resid (before):  0.624D+00
+ L2-resid (after) :  0.278D-16
+ average reduction:  0.445D-16
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+ +++ WARNG: norm of quasi residual = 0.254D-24
+ +++ WARNG: norm of real  residual = 0.319D-15
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.422D-01
+ L2-resid (after) :  0.254D-24
+ average reduction:  0.182D-07
+ average reduction:  0.214D-13 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          2
+ L2-resid (before):  0.599D+01
+ L2-resid (after) :  0.129D-02
+ average reduction:  0.147D-01
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          2
+ L2-resid (before):  0.538D+01
+ L2-resid (after) :  0.186D-02
+ average reduction:  0.186D-01
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+             max. |u1-u2|, max(|u1|,|u2|) = 0.440D-13 0.188D-01
+ >>> MESSG: Approximation criterion fulfilled (with current value of factor_app_
+ var)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.520D-01
+ L2-resid (after) :  0.235D-15
+ average reduction:  0.165D-04
+ average reduction:  0.483D-04 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.160D+02
+ L2-resid (after) :  0.141D-03
+ average reduction:  0.207D-01
+ average reduction:  0.584D-02 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.126D+02
+ L2-resid (after) :  0.161D-03
+ average reduction:  0.233D-01
+ average reduction:  0.128D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+             max. |u1-u2|, max(|u1|,|u2|) = 0.334D-10 0.179D-01
+ >>> MESSG: Approximation criterion fulfilled (with current value of factor_app_
+ var)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.372D-01
+ L2-resid (after) :  0.379D-12
+ average reduction:  0.217D-03
+ average reduction:  0.112D-04 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.147D+02
+ L2-resid (after) :  0.854D-03
+ average reduction:  0.387D-01
+ average reduction:  0.102D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.109D+02
+ L2-resid (after) :  0.852D-03
+ average reduction:  0.428D-01
+ average reduction:  0.276D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+ +++ WARNG: norm of quasi residual = 0.288D-17
+ +++ WARNG: norm of real  residual = 0.194D-15
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          4
+ L2-resid (before):  0.130D-01
+ L2-resid (after) :  0.288D-17
+ average reduction:  0.122D-03
+ average reduction:  0.464D-05 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.402D+01
+ L2-resid (after) :  0.204D-03
+ average reduction:  0.370D-01
+ average reduction:  0.280D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.402D+01
+ L2-resid (after) :  0.210D-03
+ average reduction:  0.374D-01
+ average reduction:  0.261D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+ +++ WARNG: norm of quasi residual = 0.291D-20
+ +++ WARNG: norm of real  residual = 0.514D-19
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          4
+ L2-resid (before):  0.354D-05
+ L2-resid (after) :  0.291D-20
+ average reduction:  0.169D-03
+ average reduction:  0.483D-05 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.404D+01
+ L2-resid (after) :  0.239D-03
+ average reduction:  0.390D-01
+ average reduction:  0.288D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.404D+01
+ L2-resid (after) :  0.244D-03
+ average reduction:  0.392D-01
+ average reduction:  0.287D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+             max. |u1-u2|, max(|u1|,|u2|) = 0.917D-10 0.477D-02
+ >>> MESSG: Approximation criterion fulfilled (with current value of factor_app_
+ var)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.385D-02
+ L2-resid (after) :  0.592D-10
+ average reduction:  0.249D-02
+ average reduction:  0.520D-03 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          2
+ L2-resid (before):  0.425D+01
+ L2-resid (after) :  0.517D-02
+ average reduction:  0.349D-01
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          2
+ L2-resid (before):  0.441D+01
+ L2-resid (after) :  0.175D-01
+ average reduction:  0.630D-01
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+ +++ WARNG: norm of quasi residual = 0.197D-31
+ +++ WARNG: norm of real  residual = 0.555D-16
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          2
+ L2-resid (before):  0.405D-01
+ L2-resid (after) :  0.197D-31
+ average reduction:  0.698D-15
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ +++ WARNG: norm of quasi residual = 0.199D-14
+ +++ WARNG: norm of real  residual = 0.136D-11
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          1
+ L2-resid (before):  0.978D+01
+ L2-resid (after) :  0.199D-14
+ average reduction:  0.203D-15
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ +++ WARNG: norm of quasi residual = 0.000D+00
+ +++ WARNG: norm of real  residual = 0.102D-11
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          1
+ L2-resid (before):  0.234D+00
+ L2-resid (after) :  0.000D+00
+ average reduction:  0.000D+00
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+ +++ WARNG: norm of quasi residual = 0.710D-32
+ +++ WARNG: norm of real  residual = 0.501D-16
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          2
+ L2-resid (before):  0.392D-01
+ L2-resid (after) :  0.710D-32
+ average reduction:  0.426D-15
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ +++ WARNG: norm of quasi residual = 0.160D-14
+ +++ WARNG: norm of real  residual = 0.417D-11
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          1
+ L2-resid (before):  0.631D+01
+ L2-resid (after) :  0.160D-14
+ average reduction:  0.254D-15
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ +++ WARNG: norm of quasi residual = 0.555D-16
+ +++ WARNG: norm of real  residual = 0.417D-11
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          1
+ L2-resid (before):  0.623D+00
+ L2-resid (after) :  0.555D-16
+ average reduction:  0.891D-16
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+ +++ WARNG: norm of quasi residual = 0.882D-25
+ +++ WARNG: norm of real  residual = 0.224D-15
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.422D-01
+ L2-resid (after) :  0.882D-25
+ average reduction:  0.128D-07
+ average reduction:  0.744D-14 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          2
+ L2-resid (before):  0.599D+01
+ L2-resid (after) :  0.129D-02
+ average reduction:  0.147D-01
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          2
+ L2-resid (before):  0.538D+01
+ L2-resid (after) :  0.186D-02
+ average reduction:  0.186D-01
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+             max. |u1-u2|, max(|u1|,|u2|) = 0.440D-13 0.188D-01
+ >>> MESSG: Approximation criterion fulfilled (with current value of factor_app_
+ var)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.520D-01
+ L2-resid (after) :  0.235D-15
+ average reduction:  0.165D-04
+ average reduction:  0.483D-04 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.160D+02
+ L2-resid (after) :  0.141D-03
+ average reduction:  0.207D-01
+ average reduction:  0.584D-02 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.126D+02
+ L2-resid (after) :  0.160D-03
+ average reduction:  0.233D-01
+ average reduction:  0.128D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+             max. |u1-u2|, max(|u1|,|u2|) = 0.334D-10 0.179D-01
+ >>> MESSG: Approximation criterion fulfilled (with current value of factor_app_
+ var)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.372D-01
+ L2-resid (after) :  0.379D-12
+ average reduction:  0.217D-03
+ average reduction:  0.112D-04 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.147D+02
+ L2-resid (after) :  0.854D-03
+ average reduction:  0.387D-01
+ average reduction:  0.102D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.109D+02
+ L2-resid (after) :  0.852D-03
+ average reduction:  0.428D-01
+ average reduction:  0.276D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+ +++ WARNG: norm of quasi residual = 0.288D-17
+ +++ WARNG: norm of real  residual = 0.146D-15
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          4
+ L2-resid (before):  0.130D-01
+ L2-resid (after) :  0.288D-17
+ average reduction:  0.122D-03
+ average reduction:  0.464D-05 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.402D+01
+ L2-resid (after) :  0.204D-03
+ average reduction:  0.370D-01
+ average reduction:  0.280D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.402D+01
+ L2-resid (after) :  0.210D-03
+ average reduction:  0.374D-01
+ average reduction:  0.261D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+ +++ WARNG: norm of quasi residual = 0.291D-20
+ +++ WARNG: norm of real  residual = 0.636D-19
+ +++ WARNG: CG stop: quasi and real residual too different (new_cgc)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          4
+ L2-resid (before):  0.354D-05
+ L2-resid (after) :  0.291D-20
+ average reduction:  0.169D-03
+ average reduction:  0.483D-05 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.404D+01
+ L2-resid (after) :  0.239D-03
+ average reduction:  0.390D-01
+ average reduction:  0.288D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.404D+01
+ L2-resid (after) :  0.244D-03
+ average reduction:  0.392D-01
+ average reduction:  0.287D-01 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ +++ WARNG: App-criterion selected but num_old_apps < 1! Reset: num_old_apps=1
+ 
+             max. |u1-u2|, max(|u1|,|u2|) = 0.917D-10 0.477D-02
+ >>> MESSG: Approximation criterion fulfilled (with current value of factor_app_
+ var)!
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          3
+ L2-resid (before):  0.385D-02
+ L2-resid (after) :  0.592D-10
+ average reduction:  0.249D-02
+ average reduction:  0.520D-03 ( 2 cycles skipped)
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          2
+ L2-resid (before):  0.425D+01
+ L2-resid (after) :  0.517D-02
+ average reduction:  0.349D-01
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)
+ 
+ 
+ AMG workcount and statistics
+ ============================
+ 
+ number of cycles :          2
+ L2-resid (before):  0.441D+01
+ L2-resid (after) :  0.175D-01
+ average reduction:  0.630D-01
+ 
+ amg setup time:      0.000sec  (incl. overhead:     0.000sec)
+ time per cycle:      0.000sec  (incl. overhead:     0.000sec)
+ total amg time:      0.000sec  (incl. overhead:     0.000sec)

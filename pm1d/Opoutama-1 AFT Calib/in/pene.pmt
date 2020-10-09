@@ -1,0 +1,10 @@
+c IES-Software PM1D
+c begin table(Piercing)
+Head           | Layer          | Piercing Time  | Piercing Lithology| Piercing Volume| 
+Head           |                | Ma             |                | km^3           | 
+Key            | GeoFacies      | Age            | Lithology      | Volume         | 
+Stop           
+Format         | %d             | %6.4f          | %d             | %6.4f          | 
+Flag           | 0              | 0              | 0              | 0              | 
+c              
+c end table(Piercing)

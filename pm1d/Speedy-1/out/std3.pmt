@@ -1,0 +1,18 @@
+c
+c Event Definition
+c
+Head   | ID  |        Name         | Age from | Duration |
+Head   |     |                     |   [Ma]   |   [Ma]   |
+Key    | ID  |        Name         | AgeFrom  | Duration |
+Stop------------------------------------------------------
+Format | %3d |         %s          |  %7.4f   |  %7.4f   |
+Flag   |  3  |          2          |    0     |    0     |
+c---------------------------------------------------------
+Data   |   1 | late Mio Clay       |   3.6000 |   6.4000 |
+Data   |   2 | mid-Plio Clay       |   3.0000 |   0.6000 |
+Data   |   3 | Tuituki Sst         |   2.7500 |   0.2500 |
+Data   |   4 | Te Onepu LS         |   2.4000 |   0.3500 |
+Data   |   5 | Makaretu MS         |   2.0000 |   0.4000 |
+Data   |   6 | Pukeora Oyster Beds |   1.0000 |   1.0000 |
+Data   |   7 | Quaternary Clays    |   0.5000 |   0.5000 |
+Data   |   8 | Alluvium Gravels    |  -0.0000 |   0.5000 |

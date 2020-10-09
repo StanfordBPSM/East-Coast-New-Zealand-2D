@@ -1,0 +1,21 @@
+c
+c Standard Content
+c
+Head   |  ID   | Level |        Name         |
+Key    |  ID   | Level |     NameInTree      |
+Stop------------------------------------------
+Format |  %4d  |  %2d  |         %s          |
+Flag   |   0   |   0   |          0          |
+c---------------------------------------------
+Data   | 60630 |     1 | Glenburn_Sub1_Map   |
+Data   | 60631 |     1 | Glenburn_Sub1_1_Map |
+Data   | 60632 |     1 | Glenburn_Sub1_2_Map |
+Data   | 60633 |     1 | Glenburn_Sub1_3_Map |
+Data   | 60634 |     1 | Torlesse_Map        |
+Data   | 60635 |     1 | Torlesse_1_Map      |
+Data   | 60636 |     1 | Torlesse_2_Map      |
+Data   | 60637 |     1 | Torlesse_3_Map      |
+Data   | 60638 |     1 | Torlesse_4_Map      |
+Data   | 60639 |     1 | Decollemont_Map     |
+Data   | 60640 |     1 | Decollemont1_Map    |
+Data   | 60641 |     1 | Base_Map            |

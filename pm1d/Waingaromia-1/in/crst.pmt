@@ -1,0 +1,10 @@
+c IES-Software PM1D
+c begin table(Crustal Layer)
+Head           | Age            | Thickness/Depth| Mode           | Upper Crust Value| Upper Crust Map| Upper Crust Lithology| Mode           | Lower Crust Value| Lower Crust Map| Lower Crust Lithology| Mode           | Upper Mantle Value| Upper Mantle Map| Upper Mantle Lithology| Temperature    | 
+Head           |                |                |                | m              |                |                |                | m              |                |                |                | m              |                |                | C              | 
+Key            | Age            | Thickness      | UpCrustMode    | UpCrustVal     | UpCrustMap     | UpCrustLit     | LowCrustMode   | LowCrustVal    | LowCrustMap    | LowCrustLit    | UpMantleMode   | UpMantleVal    | UpMantleMap    | UpMantleLit    | Temperature    | 
+Stop           
+Format         | %6.4f          | %d             | %d             | %6.4f          | %d             | %d             | %d             | %6.4f          | %d             | %d             | %d             | %6.4f          | %d             | %d             | %6.4f          | 
+Flag           | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 
+c              
+c end table(Crustal Layer)

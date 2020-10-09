@@ -1,0 +1,33 @@
+c
+c Event Definition
+c
+Head   | ID  |      Name       | Age from | Duration |
+Head   |     |                 |   [Ma]   |   [Ma]   |
+Key    | ID  |      Name       | AgeFrom  | Duration |
+Stop--------------------------------------------------
+Format | %3d |       %s        |  %7.4f   |  %7.4f   |
+Flag   |  3  |        2        |    0     |    0     |
+c-----------------------------------------------------
+Data   |   1 | Petromod Buffer |  35.0000 |   5.0000 |
+Data   |   2 | Event_2         |  34.3000 |   0.7000 |
+Data   |   3 | Event_3         |  34.0000 |   0.3000 |
+Data   |   4 | Whaingaroan     |  30.0000 |   4.0000 |
+Data   |   5 | Event_5         |  18.7000 |  11.3000 |
+Data   |   6 | Waiuan          |  17.1000 |   1.6000 |
+Data   |   7 | Event_7         |   9.3100 |   7.7900 |
+Data   |   8 | Event_8         |   9.2700 |   0.0400 |
+Data   |   9 | Event_9         |   9.0000 |   0.2700 |
+Data   |  10 | Tongaporutuan   |   8.8800 |   0.1200 |
+Data   |  11 | Event_11        |   6.5000 |   2.3800 |
+Data   |  12 | Event_12        |   6.4000 |   0.1000 |
+Data   |  13 | Kapitean        |   5.5100 |   0.8900 |
+Data   |  14 | Event_14        |   5.1100 |   0.4000 |
+Data   |  15 | Event_15        |   5.0000 |   0.1100 |
+Data   |  16 | Opoitian        |   4.3000 |   0.7000 |
+Data   |  17 | Waipipian       |   3.0500 |   1.2500 |
+Data   |  18 | Event_18        |   3.0000 |   0.0500 |
+Data   |  19 | Mangapanian     |   2.5000 |   0.5000 |
+Data   |  20 | Nukumaruan      |   2.4500 |   0.0500 |
+Data   |  21 | Event_21        |   2.4000 |   0.0500 |
+Data   |  22 | Event_22        |   1.6000 |   0.8000 |
+Data   |  23 | Hawera Series   |   0.0000 |   1.6000 |

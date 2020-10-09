@@ -1,0 +1,715 @@
+FLEM v.1
+FaciesExistence 1 1 1 16 
+FaciesExistence 1 2 0 
+FaciesExistence 1 3 0 
+FaciesExistence 1 4 0 
+FaciesExistence 1 5 0 
+FaciesExistence 1 6 0 
+FaciesExistence 1 7 0 
+FaciesExistence 1 8 0 
+FaciesExistence 1 9 0 
+FaciesExistence 1 10 0 
+FaciesExistence 1 11 0 
+FaciesExistence 1 12 0 
+FaciesExistence 1 13 0 
+FaciesExistence 1 14 0 
+FaciesExistence 1 15 0 
+FaciesExistence 1 16 0 
+FaciesExistence 1 17 0 
+FaciesExistence 1 18 0 
+FaciesExistence 1 19 0 
+FaciesExistence 1 20 0 
+FaciesExistence 1 21 0 
+FaciesExistence 2 1 1 16 
+FaciesExistence 2 2 1 21 
+FaciesExistence 2 3 0 
+FaciesExistence 2 4 0 
+FaciesExistence 2 5 0 
+FaciesExistence 2 6 0 
+FaciesExistence 2 7 0 
+FaciesExistence 2 8 0 
+FaciesExistence 2 9 0 
+FaciesExistence 2 10 0 
+FaciesExistence 2 11 0 
+FaciesExistence 2 12 0 
+FaciesExistence 2 13 0 
+FaciesExistence 2 14 0 
+FaciesExistence 2 15 0 
+FaciesExistence 2 16 0 
+FaciesExistence 2 17 0 
+FaciesExistence 2 18 0 
+FaciesExistence 2 19 0 
+FaciesExistence 2 20 0 
+FaciesExistence 2 21 0 
+FaciesExistence 3 1 1 16 
+FaciesExistence 3 2 1 21 
+FaciesExistence 3 3 1 20 
+FaciesExistence 3 4 0 
+FaciesExistence 3 5 0 
+FaciesExistence 3 6 0 
+FaciesExistence 3 7 0 
+FaciesExistence 3 8 0 
+FaciesExistence 3 9 0 
+FaciesExistence 3 10 0 
+FaciesExistence 3 11 0 
+FaciesExistence 3 12 0 
+FaciesExistence 3 13 0 
+FaciesExistence 3 14 0 
+FaciesExistence 3 15 0 
+FaciesExistence 3 16 0 
+FaciesExistence 3 17 0 
+FaciesExistence 3 18 0 
+FaciesExistence 3 19 0 
+FaciesExistence 3 20 0 
+FaciesExistence 3 21 0 
+FaciesExistence 4 1 1 16 
+FaciesExistence 4 2 1 21 
+FaciesExistence 4 3 1 20 
+FaciesExistence 4 4 1 19 
+FaciesExistence 4 5 0 
+FaciesExistence 4 6 0 
+FaciesExistence 4 7 0 
+FaciesExistence 4 8 0 
+FaciesExistence 4 9 0 
+FaciesExistence 4 10 0 
+FaciesExistence 4 11 0 
+FaciesExistence 4 12 0 
+FaciesExistence 4 13 0 
+FaciesExistence 4 14 0 
+FaciesExistence 4 15 0 
+FaciesExistence 4 16 0 
+FaciesExistence 4 17 0 
+FaciesExistence 4 18 0 
+FaciesExistence 4 19 0 
+FaciesExistence 4 20 0 
+FaciesExistence 4 21 0 
+FaciesExistence 5 1 1 16 
+FaciesExistence 5 2 1 21 
+FaciesExistence 5 3 1 20 
+FaciesExistence 5 4 1 19 
+FaciesExistence 5 5 1 15 
+FaciesExistence 5 6 0 
+FaciesExistence 5 7 0 
+FaciesExistence 5 8 0 
+FaciesExistence 5 9 0 
+FaciesExistence 5 10 0 
+FaciesExistence 5 11 0 
+FaciesExistence 5 12 0 
+FaciesExistence 5 13 0 
+FaciesExistence 5 14 0 
+FaciesExistence 5 15 0 
+FaciesExistence 5 16 0 
+FaciesExistence 5 17 0 
+FaciesExistence 5 18 0 
+FaciesExistence 5 19 0 
+FaciesExistence 5 20 0 
+FaciesExistence 5 21 0 
+FaciesExistence 6 1 1 16 
+FaciesExistence 6 2 1 21 
+FaciesExistence 6 3 1 20 
+FaciesExistence 6 4 1 19 
+FaciesExistence 6 5 1 15 
+FaciesExistence 6 6 1 14 
+FaciesExistence 6 7 0 
+FaciesExistence 6 8 0 
+FaciesExistence 6 9 0 
+FaciesExistence 6 10 0 
+FaciesExistence 6 11 0 
+FaciesExistence 6 12 0 
+FaciesExistence 6 13 0 
+FaciesExistence 6 14 0 
+FaciesExistence 6 15 0 
+FaciesExistence 6 16 0 
+FaciesExistence 6 17 0 
+FaciesExistence 6 18 0 
+FaciesExistence 6 19 0 
+FaciesExistence 6 20 0 
+FaciesExistence 6 21 0 
+FaciesExistence 7 1 1 16 
+FaciesExistence 7 2 1 21 
+FaciesExistence 7 3 1 20 
+FaciesExistence 7 4 1 19 
+FaciesExistence 7 5 1 15 
+FaciesExistence 7 6 1 14 
+FaciesExistence 7 7 1 13 
+FaciesExistence 7 8 0 
+FaciesExistence 7 9 0 
+FaciesExistence 7 10 0 
+FaciesExistence 7 11 0 
+FaciesExistence 7 12 0 
+FaciesExistence 7 13 0 
+FaciesExistence 7 14 0 
+FaciesExistence 7 15 0 
+FaciesExistence 7 16 0 
+FaciesExistence 7 17 0 
+FaciesExistence 7 18 0 
+FaciesExistence 7 19 0 
+FaciesExistence 7 20 0 
+FaciesExistence 7 21 0 
+FaciesExistence 8 1 1 16 
+FaciesExistence 8 2 1 21 
+FaciesExistence 8 3 1 20 
+FaciesExistence 8 4 1 19 
+FaciesExistence 8 5 1 15 
+FaciesExistence 8 6 1 14 
+FaciesExistence 8 7 1 13 
+FaciesExistence 8 8 1 18 
+FaciesExistence 8 9 0 
+FaciesExistence 8 10 0 
+FaciesExistence 8 11 0 
+FaciesExistence 8 12 0 
+FaciesExistence 8 13 0 
+FaciesExistence 8 14 0 
+FaciesExistence 8 15 0 
+FaciesExistence 8 16 0 
+FaciesExistence 8 17 0 
+FaciesExistence 8 18 0 
+FaciesExistence 8 19 0 
+FaciesExistence 8 20 0 
+FaciesExistence 8 21 0 
+FaciesExistence 9 1 1 16 
+FaciesExistence 9 2 1 21 
+FaciesExistence 9 3 1 20 
+FaciesExistence 9 4 1 19 
+FaciesExistence 9 5 1 15 
+FaciesExistence 9 6 1 14 
+FaciesExistence 9 7 1 13 
+FaciesExistence 9 8 1 18 
+FaciesExistence 9 9 1 12 
+FaciesExistence 9 10 0 
+FaciesExistence 9 11 0 
+FaciesExistence 9 12 0 
+FaciesExistence 9 13 0 
+FaciesExistence 9 14 0 
+FaciesExistence 9 15 0 
+FaciesExistence 9 16 0 
+FaciesExistence 9 17 0 
+FaciesExistence 9 18 0 
+FaciesExistence 9 19 0 
+FaciesExistence 9 20 0 
+FaciesExistence 9 21 0 
+FaciesExistence 10 1 1 16 
+FaciesExistence 10 2 1 21 
+FaciesExistence 10 3 1 20 
+FaciesExistence 10 4 1 19 
+FaciesExistence 10 5 1 15 
+FaciesExistence 10 6 1 14 
+FaciesExistence 10 7 1 13 
+FaciesExistence 10 8 1 18 
+FaciesExistence 10 9 1 12 
+FaciesExistence 10 10 0 
+FaciesExistence 10 11 0 
+FaciesExistence 10 12 0 
+FaciesExistence 10 13 0 
+FaciesExistence 10 14 0 
+FaciesExistence 10 15 0 
+FaciesExistence 10 16 0 
+FaciesExistence 10 17 0 
+FaciesExistence 10 18 0 
+FaciesExistence 10 19 0 
+FaciesExistence 10 20 0 
+FaciesExistence 10 21 0 
+FaciesExistence 11 1 1 16 
+FaciesExistence 11 2 1 21 
+FaciesExistence 11 3 1 20 
+FaciesExistence 11 4 1 19 
+FaciesExistence 11 5 1 15 
+FaciesExistence 11 6 1 14 
+FaciesExistence 11 7 1 13 
+FaciesExistence 11 8 1 18 
+FaciesExistence 11 9 1 12 
+FaciesExistence 11 10 0 
+FaciesExistence 11 11 0 
+FaciesExistence 11 12 0 
+FaciesExistence 11 13 0 
+FaciesExistence 11 14 0 
+FaciesExistence 11 15 0 
+FaciesExistence 11 16 0 
+FaciesExistence 11 17 0 
+FaciesExistence 11 18 0 
+FaciesExistence 11 19 0 
+FaciesExistence 11 20 0 
+FaciesExistence 11 21 0 
+FaciesExistence 12 1 1 16 
+FaciesExistence 12 2 1 21 
+FaciesExistence 12 3 1 20 
+FaciesExistence 12 4 1 19 
+FaciesExistence 12 5 1 15 
+FaciesExistence 12 6 1 14 
+FaciesExistence 12 7 1 13 
+FaciesExistence 12 8 1 18 
+FaciesExistence 12 9 1 12 
+FaciesExistence 12 10 0 
+FaciesExistence 12 11 0 
+FaciesExistence 12 12 0 
+FaciesExistence 12 13 0 
+FaciesExistence 12 14 0 
+FaciesExistence 12 15 0 
+FaciesExistence 12 16 0 
+FaciesExistence 12 17 0 
+FaciesExistence 12 18 0 
+FaciesExistence 12 19 0 
+FaciesExistence 12 20 0 
+FaciesExistence 12 21 0 
+FaciesExistence 13 1 1 16 
+FaciesExistence 13 2 1 21 
+FaciesExistence 13 3 1 20 
+FaciesExistence 13 4 1 19 
+FaciesExistence 13 5 1 15 
+FaciesExistence 13 6 1 14 
+FaciesExistence 13 7 1 13 
+FaciesExistence 13 8 1 18 
+FaciesExistence 13 9 1 12 
+FaciesExistence 13 10 1 17 
+FaciesExistence 13 11 0 
+FaciesExistence 13 12 0 
+FaciesExistence 13 13 0 
+FaciesExistence 13 14 0 
+FaciesExistence 13 15 0 
+FaciesExistence 13 16 0 
+FaciesExistence 13 17 0 
+FaciesExistence 13 18 0 
+FaciesExistence 13 19 0 
+FaciesExistence 13 20 0 
+FaciesExistence 13 21 0 
+FaciesExistence 14 1 1 16 
+FaciesExistence 14 2 1 21 
+FaciesExistence 14 3 1 20 
+FaciesExistence 14 4 1 19 
+FaciesExistence 14 5 1 15 
+FaciesExistence 14 6 1 14 
+FaciesExistence 14 7 1 13 
+FaciesExistence 14 8 1 18 
+FaciesExistence 14 9 1 12 
+FaciesExistence 14 10 1 17 
+FaciesExistence 14 11 1 11 
+FaciesExistence 14 12 0 
+FaciesExistence 14 13 0 
+FaciesExistence 14 14 0 
+FaciesExistence 14 15 0 
+FaciesExistence 14 16 0 
+FaciesExistence 14 17 0 
+FaciesExistence 14 18 0 
+FaciesExistence 14 19 0 
+FaciesExistence 14 20 0 
+FaciesExistence 14 21 0 
+FaciesExistence 15 1 1 16 
+FaciesExistence 15 2 1 21 
+FaciesExistence 15 3 1 20 
+FaciesExistence 15 4 1 19 
+FaciesExistence 15 5 1 15 
+FaciesExistence 15 6 1 14 
+FaciesExistence 15 7 1 13 
+FaciesExistence 15 8 1 18 
+FaciesExistence 15 9 1 12 
+FaciesExistence 15 10 1 17 
+FaciesExistence 15 11 1 11 
+FaciesExistence 15 12 0 
+FaciesExistence 15 13 0 
+FaciesExistence 15 14 0 
+FaciesExistence 15 15 0 
+FaciesExistence 15 16 0 
+FaciesExistence 15 17 0 
+FaciesExistence 15 18 0 
+FaciesExistence 15 19 0 
+FaciesExistence 15 20 0 
+FaciesExistence 15 21 0 
+FaciesExistence 16 1 1 16 
+FaciesExistence 16 2 1 21 
+FaciesExistence 16 3 1 20 
+FaciesExistence 16 4 1 19 
+FaciesExistence 16 5 1 15 
+FaciesExistence 16 6 1 14 
+FaciesExistence 16 7 1 13 
+FaciesExistence 16 8 1 18 
+FaciesExistence 16 9 1 12 
+FaciesExistence 16 10 1 17 
+FaciesExistence 16 11 1 11 
+FaciesExistence 16 12 1 10 
+FaciesExistence 16 13 0 
+FaciesExistence 16 14 0 
+FaciesExistence 16 15 0 
+FaciesExistence 16 16 0 
+FaciesExistence 16 17 0 
+FaciesExistence 16 18 0 
+FaciesExistence 16 19 0 
+FaciesExistence 16 20 0 
+FaciesExistence 16 21 0 
+FaciesExistence 17 1 1 16 
+FaciesExistence 17 2 1 21 
+FaciesExistence 17 3 1 20 
+FaciesExistence 17 4 1 19 
+FaciesExistence 17 5 1 15 
+FaciesExistence 17 6 1 14 
+FaciesExistence 17 7 1 13 
+FaciesExistence 17 8 1 18 
+FaciesExistence 17 9 1 12 
+FaciesExistence 17 10 1 17 
+FaciesExistence 17 11 1 11 
+FaciesExistence 17 12 1 10 
+FaciesExistence 17 13 0 
+FaciesExistence 17 14 0 
+FaciesExistence 17 15 0 
+FaciesExistence 17 16 0 
+FaciesExistence 17 17 0 
+FaciesExistence 17 18 0 
+FaciesExistence 17 19 0 
+FaciesExistence 17 20 0 
+FaciesExistence 17 21 0 
+FaciesExistence 18 1 1 16 
+FaciesExistence 18 2 1 21 
+FaciesExistence 18 3 1 20 
+FaciesExistence 18 4 1 19 
+FaciesExistence 18 5 1 15 
+FaciesExistence 18 6 1 14 
+FaciesExistence 18 7 1 13 
+FaciesExistence 18 8 1 18 
+FaciesExistence 18 9 1 12 
+FaciesExistence 18 10 1 17 
+FaciesExistence 18 11 1 11 
+FaciesExistence 18 12 1 10 
+FaciesExistence 18 13 0 
+FaciesExistence 18 14 0 
+FaciesExistence 18 15 0 
+FaciesExistence 18 16 0 
+FaciesExistence 18 17 0 
+FaciesExistence 18 18 0 
+FaciesExistence 18 19 0 
+FaciesExistence 18 20 0 
+FaciesExistence 18 21 0 
+FaciesExistence 19 1 1 16 
+FaciesExistence 19 2 1 21 
+FaciesExistence 19 3 1 20 
+FaciesExistence 19 4 1 19 
+FaciesExistence 19 5 1 15 
+FaciesExistence 19 6 1 14 
+FaciesExistence 19 7 1 13 
+FaciesExistence 19 8 1 18 
+FaciesExistence 19 9 1 12 
+FaciesExistence 19 10 1 17 
+FaciesExistence 19 11 1 11 
+FaciesExistence 19 12 1 10 
+FaciesExistence 19 13 0 
+FaciesExistence 19 14 0 
+FaciesExistence 19 15 0 
+FaciesExistence 19 16 0 
+FaciesExistence 19 17 0 
+FaciesExistence 19 18 0 
+FaciesExistence 19 19 0 
+FaciesExistence 19 20 0 
+FaciesExistence 19 21 0 
+FaciesExistence 20 1 1 16 
+FaciesExistence 20 2 1 21 
+FaciesExistence 20 3 1 20 
+FaciesExistence 20 4 1 19 
+FaciesExistence 20 5 1 15 
+FaciesExistence 20 6 1 14 
+FaciesExistence 20 7 1 13 
+FaciesExistence 20 8 1 18 
+FaciesExistence 20 9 1 12 
+FaciesExistence 20 10 1 17 
+FaciesExistence 20 11 1 11 
+FaciesExistence 20 12 1 10 
+FaciesExistence 20 13 0 
+FaciesExistence 20 14 0 
+FaciesExistence 20 15 0 
+FaciesExistence 20 16 0 
+FaciesExistence 20 17 0 
+FaciesExistence 20 18 0 
+FaciesExistence 20 19 0 
+FaciesExistence 20 20 0 
+FaciesExistence 20 21 0 
+FaciesExistence 21 1 1 16 
+FaciesExistence 21 2 1 21 
+FaciesExistence 21 3 1 20 
+FaciesExistence 21 4 1 19 
+FaciesExistence 21 5 1 15 
+FaciesExistence 21 6 1 14 
+FaciesExistence 21 7 1 13 
+FaciesExistence 21 8 1 18 
+FaciesExistence 21 9 1 12 
+FaciesExistence 21 10 1 17 
+FaciesExistence 21 11 1 11 
+FaciesExistence 21 12 1 10 
+FaciesExistence 21 13 1 9 
+FaciesExistence 21 14 0 
+FaciesExistence 21 15 0 
+FaciesExistence 21 16 0 
+FaciesExistence 21 17 0 
+FaciesExistence 21 18 0 
+FaciesExistence 21 19 0 
+FaciesExistence 21 20 0 
+FaciesExistence 21 21 0 
+FaciesExistence 22 1 1 16 
+FaciesExistence 22 2 1 21 
+FaciesExistence 22 3 1 20 
+FaciesExistence 22 4 1 19 
+FaciesExistence 22 5 1 15 
+FaciesExistence 22 6 1 14 
+FaciesExistence 22 7 1 13 
+FaciesExistence 22 8 1 18 
+FaciesExistence 22 9 1 12 
+FaciesExistence 22 10 1 17 
+FaciesExistence 22 11 1 11 
+FaciesExistence 22 12 1 10 
+FaciesExistence 22 13 1 9 
+FaciesExistence 22 14 1 8 
+FaciesExistence 22 15 0 
+FaciesExistence 22 16 0 
+FaciesExistence 22 17 0 
+FaciesExistence 22 18 0 
+FaciesExistence 22 19 0 
+FaciesExistence 22 20 0 
+FaciesExistence 22 21 0 
+FaciesExistence 23 1 1 16 
+FaciesExistence 23 2 1 21 
+FaciesExistence 23 3 1 20 
+FaciesExistence 23 4 1 19 
+FaciesExistence 23 5 1 15 
+FaciesExistence 23 6 1 14 
+FaciesExistence 23 7 1 13 
+FaciesExistence 23 8 1 18 
+FaciesExistence 23 9 1 12 
+FaciesExistence 23 10 1 17 
+FaciesExistence 23 11 1 11 
+FaciesExistence 23 12 1 10 
+FaciesExistence 23 13 1 9 
+FaciesExistence 23 14 1 8 
+FaciesExistence 23 15 0 
+FaciesExistence 23 16 0 
+FaciesExistence 23 17 0 
+FaciesExistence 23 18 0 
+FaciesExistence 23 19 0 
+FaciesExistence 23 20 0 
+FaciesExistence 23 21 0 
+FaciesExistence 24 1 1 16 
+FaciesExistence 24 2 1 21 
+FaciesExistence 24 3 1 20 
+FaciesExistence 24 4 1 19 
+FaciesExistence 24 5 1 15 
+FaciesExistence 24 6 1 14 
+FaciesExistence 24 7 1 13 
+FaciesExistence 24 8 1 18 
+FaciesExistence 24 9 1 12 
+FaciesExistence 24 10 1 17 
+FaciesExistence 24 11 1 11 
+FaciesExistence 24 12 1 10 
+FaciesExistence 24 13 1 9 
+FaciesExistence 24 14 1 8 
+FaciesExistence 24 15 1 7 
+FaciesExistence 24 16 0 
+FaciesExistence 24 17 0 
+FaciesExistence 24 18 0 
+FaciesExistence 24 19 0 
+FaciesExistence 24 20 0 
+FaciesExistence 24 21 0 
+FaciesExistence 25 1 1 16 
+FaciesExistence 25 2 1 21 
+FaciesExistence 25 3 1 20 
+FaciesExistence 25 4 1 19 
+FaciesExistence 25 5 1 15 
+FaciesExistence 25 6 1 14 
+FaciesExistence 25 7 1 13 
+FaciesExistence 25 8 1 18 
+FaciesExistence 25 9 1 12 
+FaciesExistence 25 10 1 17 
+FaciesExistence 25 11 1 11 
+FaciesExistence 25 12 1 10 
+FaciesExistence 25 13 1 9 
+FaciesExistence 25 14 1 8 
+FaciesExistence 25 15 1 7 
+FaciesExistence 25 16 1 6 
+FaciesExistence 25 17 0 
+FaciesExistence 25 18 0 
+FaciesExistence 25 19 0 
+FaciesExistence 25 20 0 
+FaciesExistence 25 21 0 
+FaciesExistence 26 1 1 16 
+FaciesExistence 26 2 1 21 
+FaciesExistence 26 3 1 20 
+FaciesExistence 26 4 1 19 
+FaciesExistence 26 5 1 15 
+FaciesExistence 26 6 1 14 
+FaciesExistence 26 7 1 13 
+FaciesExistence 26 8 1 18 
+FaciesExistence 26 9 1 12 
+FaciesExistence 26 10 1 17 
+FaciesExistence 26 11 1 11 
+FaciesExistence 26 12 1 10 
+FaciesExistence 26 13 1 9 
+FaciesExistence 26 14 1 8 
+FaciesExistence 26 15 1 7 
+FaciesExistence 26 16 1 6 
+FaciesExistence 26 17 1 5 
+FaciesExistence 26 18 0 
+FaciesExistence 26 19 0 
+FaciesExistence 26 20 0 
+FaciesExistence 26 21 0 
+FaciesExistence 27 1 1 16 
+FaciesExistence 27 2 1 21 
+FaciesExistence 27 3 1 20 
+FaciesExistence 27 4 1 19 
+FaciesExistence 27 5 1 15 
+FaciesExistence 27 6 1 14 
+FaciesExistence 27 7 1 13 
+FaciesExistence 27 8 1 18 
+FaciesExistence 27 9 1 12 
+FaciesExistence 27 10 1 17 
+FaciesExistence 27 11 1 11 
+FaciesExistence 27 12 1 10 
+FaciesExistence 27 13 1 9 
+FaciesExistence 27 14 1 8 
+FaciesExistence 27 15 1 7 
+FaciesExistence 27 16 1 6 
+FaciesExistence 27 17 1 5 
+FaciesExistence 27 18 1 4 
+FaciesExistence 27 19 0 
+FaciesExistence 27 20 0 
+FaciesExistence 27 21 0 
+FaciesExistence 28 1 1 16 
+FaciesExistence 28 2 1 21 
+FaciesExistence 28 3 1 20 
+FaciesExistence 28 4 1 19 
+FaciesExistence 28 5 1 15 
+FaciesExistence 28 6 1 14 
+FaciesExistence 28 7 1 13 
+FaciesExistence 28 8 1 18 
+FaciesExistence 28 9 1 12 
+FaciesExistence 28 10 1 17 
+FaciesExistence 28 11 1 11 
+FaciesExistence 28 12 1 10 
+FaciesExistence 28 13 1 9 
+FaciesExistence 28 14 1 8 
+FaciesExistence 28 15 1 7 
+FaciesExistence 28 16 1 6 
+FaciesExistence 28 17 1 5 
+FaciesExistence 28 18 1 4 
+FaciesExistence 28 19 1 3 
+FaciesExistence 28 20 0 
+FaciesExistence 28 21 0 
+FaciesExistence 29 1 1 16 
+FaciesExistence 29 2 1 21 
+FaciesExistence 29 3 1 20 
+FaciesExistence 29 4 1 19 
+FaciesExistence 29 5 1 15 
+FaciesExistence 29 6 1 14 
+FaciesExistence 29 7 1 13 
+FaciesExistence 29 8 1 18 
+FaciesExistence 29 9 1 12 
+FaciesExistence 29 10 1 17 
+FaciesExistence 29 11 1 11 
+FaciesExistence 29 12 1 10 
+FaciesExistence 29 13 1 9 
+FaciesExistence 29 14 1 8 
+FaciesExistence 29 15 1 7 
+FaciesExistence 29 16 1 6 
+FaciesExistence 29 17 1 5 
+FaciesExistence 29 18 1 4 
+FaciesExistence 29 19 1 3 
+FaciesExistence 29 20 1 2 
+FaciesExistence 29 21 0 
+FaciesExistence 30 1 1 16 
+FaciesExistence 30 2 1 21 
+FaciesExistence 30 3 1 20 
+FaciesExistence 30 4 1 19 
+FaciesExistence 30 5 1 15 
+FaciesExistence 30 6 1 14 
+FaciesExistence 30 7 1 13 
+FaciesExistence 30 8 1 18 
+FaciesExistence 30 9 1 12 
+FaciesExistence 30 10 1 17 
+FaciesExistence 30 11 1 11 
+FaciesExistence 30 12 1 10 
+FaciesExistence 30 13 1 9 
+FaciesExistence 30 14 1 8 
+FaciesExistence 30 15 1 7 
+FaciesExistence 30 16 1 6 
+FaciesExistence 30 17 1 5 
+FaciesExistence 30 18 1 4 
+FaciesExistence 30 19 1 3 
+FaciesExistence 30 20 1 2 
+FaciesExistence 30 21 1 1 
+FaciesExistence 31 1 1 16 
+FaciesExistence 31 2 1 21 
+FaciesExistence 31 3 1 20 
+FaciesExistence 31 4 1 19 
+FaciesExistence 31 5 1 15 
+FaciesExistence 31 6 1 14 
+FaciesExistence 31 7 1 13 
+FaciesExistence 31 8 1 18 
+FaciesExistence 31 9 1 12 
+FaciesExistence 31 10 1 17 
+FaciesExistence 31 11 1 11 
+FaciesExistence 31 12 1 10 
+FaciesExistence 31 13 1 9 
+FaciesExistence 31 14 1 8 
+FaciesExistence 31 15 1 7 
+FaciesExistence 31 16 1 6 
+FaciesExistence 31 17 1 5 
+FaciesExistence 31 18 1 4 
+FaciesExistence 31 19 1 3 
+FaciesExistence 31 20 1 2 
+FaciesExistence 31 21 1 1 
+FaciesExistence 32 1 1 16 
+FaciesExistence 32 2 1 21 
+FaciesExistence 32 3 1 20 
+FaciesExistence 32 4 1 19 
+FaciesExistence 32 5 1 15 
+FaciesExistence 32 6 1 14 
+FaciesExistence 32 7 1 13 
+FaciesExistence 32 8 1 18 
+FaciesExistence 32 9 1 12 
+FaciesExistence 32 10 1 17 
+FaciesExistence 32 11 1 11 
+FaciesExistence 32 12 1 10 
+FaciesExistence 32 13 1 9 
+FaciesExistence 32 14 1 8 
+FaciesExistence 32 15 1 7 
+FaciesExistence 32 16 1 6 
+FaciesExistence 32 17 1 5 
+FaciesExistence 32 18 1 4 
+FaciesExistence 32 19 1 3 
+FaciesExistence 32 20 1 2 
+FaciesExistence 32 21 1 1 
+FaciesExistence 33 1 1 16 
+FaciesExistence 33 2 1 21 
+FaciesExistence 33 3 1 20 
+FaciesExistence 33 4 1 19 
+FaciesExistence 33 5 1 15 
+FaciesExistence 33 6 1 14 
+FaciesExistence 33 7 1 13 
+FaciesExistence 33 8 1 18 
+FaciesExistence 33 9 1 12 
+FaciesExistence 33 10 1 17 
+FaciesExistence 33 11 1 11 
+FaciesExistence 33 12 1 10 
+FaciesExistence 33 13 1 9 
+FaciesExistence 33 14 1 8 
+FaciesExistence 33 15 1 7 
+FaciesExistence 33 16 1 6 
+FaciesExistence 33 17 1 5 
+FaciesExistence 33 18 1 4 
+FaciesExistence 33 19 1 3 
+FaciesExistence 33 20 1 2 
+FaciesExistence 33 21 1 1 
+FaciesExistence 34 1 1 16 
+FaciesExistence 34 2 1 21 
+FaciesExistence 34 3 1 20 
+FaciesExistence 34 4 1 19 
+FaciesExistence 34 5 1 15 
+FaciesExistence 34 6 1 14 
+FaciesExistence 34 7 1 13 
+FaciesExistence 34 8 1 18 
+FaciesExistence 34 9 1 12 
+FaciesExistence 34 10 1 17 
+FaciesExistence 34 11 1 11 
+FaciesExistence 34 12 1 10 
+FaciesExistence 34 13 1 9 
+FaciesExistence 34 14 1 8 
+FaciesExistence 34 15 1 7 
+FaciesExistence 34 16 1 6 
+FaciesExistence 34 17 1 5 
+FaciesExistence 34 18 1 4 
+FaciesExistence 34 19 1 3 
+FaciesExistence 34 20 1 2 
+FaciesExistence 34 21 1 1 

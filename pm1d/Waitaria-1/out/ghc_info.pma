@@ -1,0 +1,31 @@
+      AvSurfaceDens 2 800 1
+OGtype
+TopLayer 1 1
+PSE 1 1 5 0
+      AvSurfaceDens 2 800 1
+TopLayer 2 2
+PSE 2 1 5 0
+PSE 2 2 4 1
+      AvSurfaceDens 2 800 1
+TopLayer 3 3
+PSE 3 1 5 0
+PSE 3 2 4 1
+PSE 3 3 3 0
+      AvSurfaceDens 2 800 1
+TopLayer 4 3
+PSE 4 1 5 0
+PSE 4 2 4 1
+PSE 4 3 3 0
+      AvSurfaceDens 2 800 1
+TopLayer 5 4
+PSE 5 1 5 0
+PSE 5 2 4 1
+PSE 5 3 3 0
+PSE 5 4 2 0
+      AvSurfaceDens 2 800 1
+TopLayer 6 5
+PSE 6 1 5 0
+PSE 6 2 4 1
+PSE 6 3 3 0
+PSE 6 4 2 0
+PSE 6 5 1 0

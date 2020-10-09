@@ -1,0 +1,17 @@
+c
+c Standard Content
+c
+Head   |  ID  | Level |      Name      |
+Key    |  ID  | Level |   NameInTree   |
+Stop------------------------------------
+Format | %4d  |  %2d  |       %s       |
+Flag   |  0   |   0   |       0        |
+c---------------------------------------
+Data   |    1 |     1 | HF_Map_1_0     |
+Data   |    2 |     1 | HF_Map_2_5     |
+Data   |    3 |     1 | HF_Map_3_35    |
+Data   |    4 |     1 | HF_Map_4_45.91 |
+Data   |    5 |     1 | HF_Map_5_55.82 |
+Data   |    6 |     1 | HF_Map_6_64.98 |
+Data   |    7 |     1 | HF_Map_7_75    |
+Data   |    8 |     1 | HF_Map_8_100   |

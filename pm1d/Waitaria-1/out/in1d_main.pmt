@@ -1,0 +1,15 @@
+c IES-Software PM1D
+c begin table(Main Input)
+Head           | LayerID        | Layer          | Top            | Base           | Thickness      | Eroded         | Deposition Begin| Deposition End | Erosion Begin  | Erosion End    | Lithology      | PSE            | TOC            | Kinetic        | HI             | 
+Head           | []             | []             | [m]            | [m]            | [m]            | [m]            | [Ma]           | [Ma]           | [Ma]           | [Ma]           | []             | []             | [%]            | []             | [mgHC/gTOC]    | 
+Key            | ID             | Name           | Top            | Base           | Thickness      | Eroded         | DepoFrom       | DepoTo         | EroFrom        | EroTo          | Lithology      | PSE            | TOCValue       | MulGen         | MulHIVal       | 
+Stop           
+Format         | %3d            | %s             | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %3d            | %3d            | %6.4f          | %3d            | %6.4f          | 
+Flag           | 1              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 
+c              
+Data           | 1              | Poverty Bay Flats| 0.0000         | 312.0000       | 312.0000       |                | 0.9000         | 0.0000         |                |                | 100882         |                |                |                |                | 
+Data           | 2              | Claystone      | 312.0000       | 356.0000       | 44.0000        |                | 1.0000         | 0.9000         |                |                | 100883         |                |                |                |                | 
+Data           | 3              | Morere MS      | 356.0000       | 921.0000       | 565.0000       |                | 11.0000        | 7.0000         |                |                | 100884         |                |                |                |                | 
+Data           | 4              | Makaretu Sst   | 921.0000       | 948.0000       | 27.0000        |                | 12.0000        | 11.0000        |                |                | 100885         |                |                |                |                | 
+Data           | 5              | Tangihau MS    | 948.0000       | 1344.0000      | 396.0000       |                | 14.0000        | 12.0000        |                |                | 100886         |                |                |                |                | 
+c end table(Main Input)

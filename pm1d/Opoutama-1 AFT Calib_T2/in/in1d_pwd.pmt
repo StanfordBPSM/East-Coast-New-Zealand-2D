@@ -1,0 +1,18 @@
+c IES-Software PM1D
+c begin table(Paleo Water Depth)
+Head           | Age            | PWD            | 
+Head           | Ma             | m              | 
+Key            | Age            | Value          | 
+Stop           
+Format         | %6.4f          | %6.2f          | 
+Flag           | 1              | 0              | 
+c              
+Data           | 0              | -18            | 
+Data           | 4              | 0              | 
+Data           | 13             | 25             | 
+Data           | 15             | 500            | 
+Data           | 16             | 600            | 
+Data           | 22             | 700            | 
+Data           | 56             | 1000           | 
+Data           | 84             | 2000           | 
+c end table(Paleo Water Depth)

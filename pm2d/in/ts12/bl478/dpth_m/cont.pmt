@@ -1,0 +1,31 @@
+c
+c Standard Content
+c
+Head   |  ID   | Level |         Name         |
+Key    |  ID   | Level |      NameInTree      |
+Stop-------------------------------------------
+Format |  %4d  |  %2d  |          %s          |
+Flag   |   0   |   0   |          0           |
+c----------------------------------------------
+Data   | 58578 |     1 | Upper_Calcareous_Map |
+Data   | 58579 |     1 | Whangai_Map          |
+Data   | 58580 |     1 | Glenburn_Top_Map     |
+Data   | 58581 |     1 | Glenburn_Top_1_Map   |
+Data   | 58582 |     1 | Glenburn_Top_2_Map   |
+Data   | 58583 |     1 | Glenburn_Top_3_Map   |
+Data   | 58584 |     1 | Glenburn_Map         |
+Data   | 58585 |     1 | Glenburn_1_Map       |
+Data   | 58586 |     1 | Glenburn_2_Map       |
+Data   | 58587 |     1 | Glenburn_3_Map       |
+Data   | 58588 |     1 | Glenburn_Sub1_Map    |
+Data   | 58589 |     1 | Glenburn_Sub1_1_Map  |
+Data   | 58590 |     1 | Glenburn_Sub1_2_Map  |
+Data   | 58591 |     1 | Glenburn_Sub1_3_Map  |
+Data   | 58592 |     1 | Torlesse_Map         |
+Data   | 58593 |     1 | Torlesse_1_Map       |
+Data   | 58594 |     1 | Torlesse_2_Map       |
+Data   | 58595 |     1 | Torlesse_3_Map       |
+Data   | 58596 |     1 | Torlesse_4_Map       |
+Data   | 58597 |     1 | Decollemont_Map      |
+Data   | 58598 |     1 | Decollemont1_Map     |
+Data   | 58599 |     1 | Base_Map             |

@@ -1,0 +1,239 @@
+*****************************************************
+
+    H e r m e s     Finite Element Simulation
+  ---------------   for Basin Modeling Analysis
+
+      Version:  2013.2
+      Released: Nov 12 2013
+      Platform: WIN64
+
+*****************************************************
+Using 1 Processor:
+  0  ES-HIKURANGI.stanford.edu
+Model name: D:/Blair/New Zealand/BPSM/Petromod Models/East Coast Basin_v2013/pm1d/Waitaria-1
+Date/Time Wed Mar 19 13:20:29 2014
+MPI thread support: 1 (Funneled: 1)
+----------------------------------------------------------
+               List of Run Control Options :
+----------------------------------------------------------
+Option: dimension                       1     ( 1d )
+Option: max time step duration          10 Ma 
+Option: min migration steps             1 per time step
+Option: fault model                     none
+Option: use previous run to optimize    no
+Option: write T and P for all timesteps no
+Option: sampling                        no
+Option: overlay format version          10
+Option: overlay float compression       yes
+Option: write esrii files               yes
+----------------------------------------------------------
+               List of Solver Options :
+----------------------------------------------------------
+Solver: using SCAI SAMG Solver
+----------------------------------------------------------
+               List of Migration Options :
+----------------------------------------------------------
+Option: model                           generation only
+Option: open sides                      yes
+Option: permeability threshold          30% porosity 
+----------------------------------------------------------
+               License Checkout
+----------------------------------------------------------
+No of Elements: 6
+----------------------------------------------------------
+               List of Lithologies :
+----------------------------------------------------------
+            Index   ID    Name
+            -----   --    ----
+Lithology:      1 100882    Poverty Bay Flats
+Lithology:      2 100883    Calc_Claystone
+Lithology:      3 100884    Morere_MS
+Lithology:      4 100885    Makaretu Sst
+Lithology:      5 100886    Tangihau_MS
+----------------------------------------------------------
+               List of Components :
+----------------------------------------------------------
+            Index   ID    Name
+            -----   --    ----
+Component:      1   66    Water
+
+PVT Model: Flash
+EoS Model: Peng Robinson
+Viscosity Model: Simple
+----------------------------------------------------------
+               List of Facies : 
+----------------------------------------------------------
+         Idx LithIdx Name
+         --- ------- ----
+Facies:    1     1   Facies_1
+Facies:    2     2   Facies_2
+Facies:    3     3   Facies_3
+Facies:    4     4   Facies_4
+Facies:    5     5   Facies_5
+----------------------------------------------------------
+               List of Layers :
+----------------------------------------------------------
+Layer:       1    Tangihau MS
+Layer:       2    Makaretu Sst
+Layer:       3    Morere MS
+Layer:       4    Claystone
+Layer:       5    Poverty Bay Flats
+----------------------------------------------------------
+               List of Events :
+----------------------------------------------------------
+                                          Output Classes     
+                                      P C G T C   M P F M V V
+                                    G r o e e a S a e l i o s
+                                    e e m o m l a s t t g l r
+                                    n s p m p i t s P P r s f
+Event     Start  Duration  TSteps   - - - - - - - - - - - - -
+    1    14.000     2.000       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    2    12.000     1.000       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    3    11.000     4.000       2   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    4     7.000     6.000       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    5     1.000     0.100       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    6     0.900     0.900       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+----------------------------------------------------------
+   Optimization Run : 1 ( 2 )   Risk Run : 1 ( 1 ) 
+----------------------------------------------------------
+               Allocation of the Models :                 
+----------------------------------------------------------
+     Pressure Analysis
+     Compaction Model 
+     Heat Analysis
+----------------------------------------------------------
+
+Start simulation run number: 1
+Event:   1 (  6 )   Timestep:    1 (   7 )   Migstep:    1
+  Geologic time span: 14.000 to 12.000 Ma
+  started at Date/Time Wed Mar 19 13:20:29 2014
+Event:   2 (  6 )   Timestep:    2 (   7 )   Migstep:    2
+  Geologic time span: 12.000 to 11.000 Ma
+  started at Date/Time Wed Mar 19 13:20:29 2014
+Event:   3 (  6 )   Timestep:    3 (   7 )   Migstep:    3
+  Geologic time span: 11.000 to 7.000 Ma
+  started at Date/Time Wed Mar 19 13:20:29 2014
+Event:   4 (  6 )   Timestep:    5 (   7 )   Migstep:    5
+  Geologic time span: 7.000 to 1.000 Ma
+  started at Date/Time Wed Mar 19 13:20:29 2014
+Event:   5 (  6 )   Timestep:    6 (   7 )   Migstep:    6
+  Geologic time span: 1.000 to 0.900 Ma
+  started at Date/Time Wed Mar 19 13:20:29 2014
+Event:   6 (  6 )   Timestep:    7 (   7 )   Migstep:    7
+  Geologic time span: 0.900 to 0.000 Ma
+  started at Date/Time Wed Mar 19 13:20:29 2014
+  event done Date/Time Wed Mar 19 13:20:29 2014
+
+ --------------------------------
+
+ Simulation Run Successful !  
+ Optimization:  0.0602447 % relative difference (Largest difference: 0.0978532 %)
+
+ --------------------------------
+
+ --------------------------------
+
+ CPU Times:
+
+ Preprocessor                          0   sec,     0.00 %
+ Pressure Analysis                     0   sec,     0.00 %
+ Compaction                            0   sec,     0.00 %
+ Heat Analysis                         0   sec,     0.00 %
+ Misc. Output                          0   sec,     0.00 %
+ PetroCharge Final                     0   sec,     0.00 %
+ Postprocessor                         0   sec,     0.00 %
+ Total                                 0   sec,   100.00 %
+
+ incl. Percol. (Fault)                 0   sec,     0.00 %
+ incl. Percol. (Break Through)         0   sec,     0.00 %
+ incl. Overlay Output                  0   sec,     0.00 %
+
+ --------------------------------
+
+Date/Time Wed Mar 19 13:20:29 2014
+----------------------------------------------------------
+   Optimization Run : 2 ( 2 )   Risk Run : 1 ( 1 ) 
+----------------------------------------------------------
+               Allocation of the Models :                 
+----------------------------------------------------------
+     Pressure Analysis
+     Compaction Model 
+     Heat Analysis
+     Biomarker Kinetics No.1
+     Biomarker Kinetics No.2
+     Biomarker Kinetics No.3
+     Single Reaction Kinetic No.1
+     Single Reaction Kinetic No.2
+     Single Reaction Kinetic No.3
+     Single Reaction Kinetic No.4
+     TTI Kinetics 
+     Migration Model
+----------------------------------------------------------
+
+----------------------------------------------------------
+               List of Kinetics :
+----------------------------------------------------------
+
+Facies - Kinetics Assignment - 
+
+No - Secondary Cracking Defined --- 
+
+Start simulation run number: 1
+Event:   1 (  6 )   Timestep:    1 (   7 )   Migstep:    1
+  Geologic time span: 14.000 to 12.000 Ma
+  started at Date/Time Wed Mar 19 13:20:29 2014
+Event:   2 (  6 )   Timestep:    2 (   7 )   Migstep:    2
+  Geologic time span: 12.000 to 11.000 Ma
+  started at Date/Time Wed Mar 19 13:20:29 2014
+Event:   3 (  6 )   Timestep:    3 (   7 )   Migstep:    3
+  Geologic time span: 11.000 to 7.000 Ma
+  started at Date/Time Wed Mar 19 13:20:29 2014
+Event:   4 (  6 )   Timestep:    5 (   7 )   Migstep:    5
+  Geologic time span: 7.000 to 1.000 Ma
+  started at Date/Time Wed Mar 19 13:20:29 2014
+Event:   5 (  6 )   Timestep:    6 (   7 )   Migstep:    6
+  Geologic time span: 1.000 to 0.900 Ma
+  started at Date/Time Wed Mar 19 13:20:29 2014
+Event:   6 (  6 )   Timestep:    7 (   7 )   Migstep:    7
+  Geologic time span: 0.900 to 0.000 Ma
+  started at Date/Time Wed Mar 19 13:20:29 2014
+  event done Date/Time Wed Mar 19 13:20:30 2014
+
+ --------------------------------
+
+ Simulation Run Successful !  
+ Optimization:  0.00751444 % relative difference (Largest difference: 0.0144052 %)
+
+ --------------------------------
+
+ --------------------------------
+
+ CPU Times:
+
+ Preprocessor                          0   sec,     0.00 %
+ Pressure Analysis                     0   sec,     0.00 %
+ Compaction                            0   sec,     0.00 %
+ Heat Analysis                         0   sec,     0.00 %
+ Biomarker Kinetics                    0   sec,     0.00 %
+ Biomarker Kinetics                    0   sec,     0.00 %
+ Biomarker Kinetics                    0   sec,     0.00 %
+ Reaction Kinetics                     0   sec,     0.00 %
+ Reaction Kinetics                     0   sec,     0.00 %
+ Reaction Kinetics                     0   sec,     0.00 %
+ Reaction Kinetics                     0   sec,     0.00 %
+ TTI Kinetics                          0   sec,     0.00 %
+ Migration                             0   sec,     0.00 %
+ Misc. Output                          0   sec,     0.00 %
+ PetroCharge Final                     1   sec,   100.00 %
+ Postprocessor                         0   sec,     0.00 %
+ Total                                 1   sec,   100.00 %
+
+ incl. Percol. (Fault)                 0   sec,     0.00 %
+ incl. Percol. (Break Through)         0   sec,     0.00 %
+ incl. Overlay Output                  1   sec,   100.00 %
+
+ --------------------------------
+
+Date/Time Wed Mar 19 13:20:30 2014
+Simulation finished at: Date/Time Wed Mar 19 13:20:30 2014
+System End

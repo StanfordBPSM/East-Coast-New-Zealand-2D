@@ -1,0 +1,26 @@
+c
+c Standard Content
+c
+Head   |  ID  | Level |       Name        |
+Key    |  ID  | Level |    NameInTree     |
+Stop---------------------------------------
+Format | %4d  |  %2d  |        %s         |
+Flag   |  0   |   0   |         0         |
+c------------------------------------------
+Data   |    1 |     1 | SWIT_Map_1_0      |
+Data   |    2 |     1 | SWIT_Map_2_0.800  |
+Data   |    3 |     1 | SWIT_Map_3_4      |
+Data   |    4 |     1 | SWIT_Map_4_7      |
+Data   |    5 |     1 | SWIT_Map_5_8.500  |
+Data   |    6 |     1 | SWIT_Map_6_11.90  |
+Data   |    7 |     1 | SWIT_Map_7_13.60  |
+Data   |    8 |     1 | SWIT_Map_8_15.30  |
+Data   |    9 |     1 | SWIT_Map_9_18.70  |
+Data   |   10 |     1 | SWIT_Map_10_34.60 |
+Data   |   11 |     1 | SWIT_Map_11_56    |
+Data   |   12 |     1 | SWIT_Map_12_60    |
+Data   |   13 |     1 | SWIT_Map_13_66    |
+Data   |   14 |     1 | SWIT_Map_14_75    |
+Data   |   15 |     1 | SWIT_Map_15_83.30 |
+Data   |   16 |     1 | SWIT_Map_16_91.70 |
+Data   |   17 |     1 | SWIT_Map_17_100   |

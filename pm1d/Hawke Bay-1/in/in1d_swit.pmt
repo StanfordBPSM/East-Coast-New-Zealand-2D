@@ -1,0 +1,26 @@
+c IES-Software PM1D
+c begin table(SWI-Temperature)
+Head           | Age            | SWIT           | 
+Head           | Ma             | C              | 
+Key            | Age            | Value          | 
+Stop           
+Format         | %6.4f          | %6.2f          | 
+Flag           | 1              | 0              | 
+c              
+Data           | 0              | 13.84          | 
+Data           | 2.4            | 5              | 
+Data           | 2.45           | 5              | 
+Data           | 3.05           | 5              | 
+Data           | 4.3            | 5              | 
+Data           | 5.11           | 5              | 
+Data           | 5.51           | 5              | 
+Data           | 6.5            | 5              | 
+Data           | 8.88           | 5              | 
+Data           | 9.27           | 5              | 
+Data           | 9.31           | 5              | 
+Data           | 17.1           | 5              | 
+Data           | 30             | 12.81          | 
+Data           | 34.3           | 13.27          | 
+Data           | 65             | 13.29          | 
+Data           | 100            | 20.15          | 
+c end table(SWI-Temperature)

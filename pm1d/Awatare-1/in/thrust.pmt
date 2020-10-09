@@ -1,0 +1,10 @@
+c IES-Software PM1D
+c begin table(Thrusting)
+Head           | Layer          | Thrust age from| Thrust age to  | Paleo Model    | Reference Layer| 
+Head           |                | Ma             | Ma             |                |                | 
+Key            | Layer          | ThrustAgeFrom  | ThrustAgeTo    | ReferenceModel | ReferenceLayer | 
+Stop           
+Format         | %d             | %6.4f          | %6.4f          | %s             | %d             | 
+Flag           | 0              | 0              | 0              | 0              | 0              | 
+c              
+c end table(Thrusting)

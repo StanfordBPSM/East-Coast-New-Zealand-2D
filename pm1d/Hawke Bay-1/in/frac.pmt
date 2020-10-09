@@ -1,0 +1,10 @@
+c IES-Software PM1D
+c begin table(Fracturing)
+Head           | Layer          | Direction      | Permeability Change| Age from       | Age to         | Depth          | Pressure       | 
+Head           |                |                | log md         | Ma             | Ma             | m              | MPa            | 
+Key            | GeoFacies      | Direction      | Permeability   | AgeFrom        | AgeTo          | Depth          | Pressure       | 
+Stop           
+Format         | %d             | %d             | %6.4f          | %6.4f          | %6.4f          | %6.4f          | %6.4f          | 
+Flag           | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 
+c              
+c end table(Fracturing)

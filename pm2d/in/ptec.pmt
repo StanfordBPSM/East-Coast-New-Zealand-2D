@@ -1,0 +1,26 @@
+c
+c Paleo Tectonic (TecLink Sections)
+c
+Head   | ID  |       Name       |   Age    |
+Key    | ID  |       Name       |   Age    |
+Stop----------------------------------------
+Format | %3d |        %s        |  %6.4f   |
+Flag   |  2  |        0         |    0     |
+c-------------------------------------------
+Data   |   1 | Present Day      |   0.0000 |
+Data   |   2 | Horizon8         |   0.8000 |
+Data   |   3 | Horizon11        |   4.0000 |
+Data   |   4 | Horizon12        |   7.0000 |
+Data   |   5 | Horizon13        |   8.5000 |
+Data   |   6 | Horizon13Sub2    |  11.9000 |
+Data   |   7 | Horizon13Sub2_FL |  13.6000 |
+Data   |   8 | Horizon13Sub1    |  18.8000 |
+Data   |   9 | Weber            |  24.0000 |
+Data   |  10 | Wanstead         |  34.6000 |
+Data   |  11 | Waipawa          |  56.0000 |
+Data   |  12 | Upper_Calcareous |  60.0000 |
+Data   |  24 | Whangai          |  66.0000 |
+Data   |  29 | Glenburn_Top     |  75.0000 |
+Data   |  23 | Glenburn         |  83.3000 |
+Data   |  22 | Gelnburn_Sub1    |  91.7000 |
+Data   |  21 | Torlesse         | 100.0000 |

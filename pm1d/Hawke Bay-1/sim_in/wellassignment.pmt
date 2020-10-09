@@ -1,0 +1,10 @@
+c
+c Well Assignment
+c
+Head   |    UWI    |    Name     | Use for risking | Use for output | Use for ModelAssignment |
+Key    |    UWI    |    Name     |     Risking     |     Output     |       Assignment        |
+Stop-------------------------------------------------------------------------------------------
+Format |    %s     |     %s      |       %3d       |      %3d       |           %3d           |
+Flag   |     0     |      0      |        0        |       0        |            0            |
+c----------------------------------------------------------------------------------------------
+Data   | UWI_001_1 | Hawke Bay-1 |               1 |              1 |                       0 |

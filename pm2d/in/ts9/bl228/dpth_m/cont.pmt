@@ -1,0 +1,23 @@
+c
+c Standard Content
+c
+Head   |  ID   | Level |         Name         |
+Key    |  ID   | Level |      NameInTree      |
+Stop-------------------------------------------
+Format |  %4d  |  %2d  |          %s          |
+Flag   |   0   |   0   |          0           |
+c----------------------------------------------
+Data   | 18435 |     1 | Weber_Map            |
+Data   | 18436 |     1 | Wanstead_Map         |
+Data   | 18437 |     1 | Waipawa_Map          |
+Data   | 18438 |     1 | Upper_Calcareous_Map |
+Data   | 18439 |     1 | Whangai_Map          |
+Data   | 18440 |     1 | Glenburn_Top_Map     |
+Data   | 18441 |     1 | Glenburn_Top_1_Map   |
+Data   | 18442 |     1 | Glenburn_Top_2_Map   |
+Data   | 34107 |     1 | Glenburn_Top_3_Map   |
+Data   | 34106 |     1 | Glenburn_Map         |
+Data   | 34105 |     1 | Glenburn_1_Map       |
+Data   | 38638 |     1 | Glenburn_2_Map       |
+Data   | 38637 |     1 | Glenburn_3_Map       |
+Data   | 38636 |     1 | Glenburn_Sub1_Map    |

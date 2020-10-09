@@ -1,0 +1,18 @@
+c
+c Standard Content
+c
+Head   |  ID   | Level |        Name        |
+Key    |  ID   | Level |     NameInTree     |
+Stop-----------------------------------------
+Format |  %4d  |  %2d  |         %s         |
+Flag   |   0   |   0   |         0          |
+c--------------------------------------------
+Data   | 21401 |     1 | Glenburn_Top_Map   |
+Data   | 21402 |     1 | Glenburn_Top_1_Map |
+Data   | 21403 |     1 | Glenburn_Top_2_Map |
+Data   | 34137 |     1 | Glenburn_Top_3_Map |
+Data   | 34136 |     1 | Glenburn_Map       |
+Data   | 34135 |     1 | Glenburn_1_Map     |
+Data   | 38668 |     1 | Glenburn_2_Map     |
+Data   | 38667 |     1 | Glenburn_3_Map     |
+Data   | 38666 |     1 | Glenburn_Sub1_Map  |

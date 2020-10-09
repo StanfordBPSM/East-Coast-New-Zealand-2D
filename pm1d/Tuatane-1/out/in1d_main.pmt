@@ -1,0 +1,14 @@
+c IES-Software PM1D
+c begin table(Main Input)
+Head           | LayerID        | Layer          | Top            | Base           | Thickness      | Eroded         | Deposition Begin| Deposition End | Erosion Begin  | Erosion End    | Lithology      | PSE            | TOC            | Kinetic        | HI             | 
+Head           | []             | []             | [m]            | [m]            | [m]            | [m]            | [Ma]           | [Ma]           | [Ma]           | [Ma]           | []             | []             | [%]            | []             | [mgHC/gTOC]    | 
+Key            | ID             | Name           | Top            | Base           | Thickness      | Eroded         | DepoFrom       | DepoTo         | EroFrom        | EroTo          | Lithology      | PSE            | TOCValue       | MulGen         | MulHIVal       | 
+Stop           
+Format         | %3d            | %s             | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %3d            | %3d            | %6.4f          | %3d            | %6.4f          | 
+Flag           | 1              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 
+c              
+Data           | 1              | un-named       | 0.0000         | 45.7000        | 45.7000        |                | 1.0000         | 0.0000         |                |                | 100908         |                |                |                |                | 
+Data           | 2              | Whakataki      | 45.7000        | 971.1000       | 925.4000       |                | 23.0000        | 18.0000        |                |                | 100909         |                |                |                |                | 
+Data           | 3              | Weber          | 971.1000       | 1111.0000      | 139.9000       |                | 25.0000        | 23.0000        |                |                | 182            |                |                |                |                | 
+Data           | 4              | Whangaehu MS   | 1111.0000      | 1328.0000      | 217.0000       |                | 26.0000        | 25.0000        |                |                | 182            |                |                |                |                | 
+c end table(Main Input)

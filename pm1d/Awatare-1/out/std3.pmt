@@ -1,0 +1,27 @@
+c
+c Event Definition
+c
+Head   | ID  |        Name         | Age from | Duration |
+Head   |     |                     |   [Ma]   |   [Ma]   |
+Key    | ID  |        Name         | AgeFrom  | Duration |
+Stop------------------------------------------------------
+Format | %3d |         %s          |  %7.4f   |  %7.4f   |
+Flag   |  3  |          2          |    0     |    0     |
+c---------------------------------------------------------
+Data   |   1 | Wheao Formation     |  18.7000 |   3.3000 |
+Data   |   2 | Kauhauroa Limestone |  17.0000 |   1.7000 |
+Data   |   3 | Sandstone           |  14.0000 |   3.0000 |
+Data   |   4 | Tangihau Mudstone   |  12.9800 |   1.0200 |
+Data   |   5 | KiaKia Limestone    |  11.0000 |   1.9800 |
+Data   |   6 | Claystone           |   9.0000 |   2.0000 |
+Data   |   7 | Pindari Mudstone    |   8.0000 |   1.0000 |
+Data   |   8 | Makareao Sandstone  |   7.2000 |   0.8000 |
+Data   |   9 | Poha Formation      |   6.0000 |   1.2000 |
+Data   |  10 | Tuhara Formation    |   5.3000 |   0.7000 |
+Data   |  11 | Green Clay and Silt |   4.5000 |   0.8000 |
+Data   |  12 | Opoiti Formation    |   4.0000 |   0.5000 |
+Data   |  13 | Tahaenui Limestone  |   3.6000 |   0.4000 |
+Data   |  14 | Silt and Clay       |   2.8000 |   0.8000 |
+Data   |  15 | Green Clay and Sand |   2.6000 |   0.2000 |
+Data   |  16 | Wairoa Formation    |   2.4000 |   0.2000 |
+Data   |  17 | Holocene            |   0.0000 |   2.4000 |

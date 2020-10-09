@@ -1,0 +1,30 @@
+c
+c Standard Content
+c
+Head   |  ID   | Level |        Name         |
+Key    |  ID   | Level |     NameInTree      |
+Stop------------------------------------------
+Format |  %4d  |  %2d  |         %s          |
+Flag   |   0   |   0   |          0          |
+c---------------------------------------------
+Data   | 58652 |     1 | Whangai_Map         |
+Data   | 58653 |     1 | Glenburn_Top_Map    |
+Data   | 58654 |     1 | Glenburn_Top_1_Map  |
+Data   | 58655 |     1 | Glenburn_Top_2_Map  |
+Data   | 58656 |     1 | Glenburn_Top_3_Map  |
+Data   | 58657 |     1 | Glenburn_Map        |
+Data   | 58658 |     1 | Glenburn_1_Map      |
+Data   | 58659 |     1 | Glenburn_2_Map      |
+Data   | 58660 |     1 | Glenburn_3_Map      |
+Data   | 58661 |     1 | Glenburn_Sub1_Map   |
+Data   | 58662 |     1 | Glenburn_Sub1_1_Map |
+Data   | 58663 |     1 | Glenburn_Sub1_2_Map |
+Data   | 58664 |     1 | Glenburn_Sub1_3_Map |
+Data   | 58665 |     1 | Torlesse_Map        |
+Data   | 58666 |     1 | Torlesse_1_Map      |
+Data   | 58667 |     1 | Torlesse_2_Map      |
+Data   | 58668 |     1 | Torlesse_3_Map      |
+Data   | 58669 |     1 | Torlesse_4_Map      |
+Data   | 58670 |     1 | Decollemont_Map     |
+Data   | 58671 |     1 | Decollemont1_Map    |
+Data   | 58672 |     1 | Base_Map            |

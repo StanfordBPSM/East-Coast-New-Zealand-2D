@@ -1,0 +1,10 @@
+c IES-Software PM1D
+c begin table(Salt Tectonics)
+Head           | Layer          | Age from       | Mode           | Uniform Thickness| Salt Tectonic Thickness Map| Salt Tectonic Top Map| Salt Tectonic Base Map| 
+Head           |                | Ma             |                | m              |                |                |                | 
+Key            | Layer          | AgeFrom        | Mode           | Value          | Map            | TopMap         | BaseMap        | 
+Stop           
+Format         | %d             | %6.4f          | %d             | %6.4f          | %d             | %d             | %d             | 
+Flag           | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 
+c              
+c end table(Salt Tectonics)

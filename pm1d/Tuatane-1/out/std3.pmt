@@ -1,0 +1,15 @@
+c
+c Event Definition
+c
+Head   | ID  |     Name     | Age from | Duration |
+Head   |     |              |   [Ma]   |   [Ma]   |
+Key    | ID  |     Name     | AgeFrom  | Duration |
+Stop-----------------------------------------------
+Format | %3d |      %s      |  %7.4f   |  %7.4f   |
+Flag   |  3  |      2       |    0     |    0     |
+c--------------------------------------------------
+Data   |   1 | Whangaehu MS |  25.0000 |   1.0000 |
+Data   |   2 | Weber        |  23.0000 |   2.0000 |
+Data   |   3 | Whakataki    |  18.0000 |   5.0000 |
+Data   |   4 | Event_4      |   1.0000 |  17.0000 |
+Data   |   5 | un-named     |   0.0000 |   1.0000 |

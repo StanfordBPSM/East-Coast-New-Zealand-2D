@@ -1,0 +1,518 @@
+*****************************************************
+
+    H e r m e s     Finite Element Simulation
+  ---------------   for Basin Modeling Analysis
+
+      Version:  2013.2
+      Released: Nov 12 2013
+      Platform: WIN64
+
+*****************************************************
+Model: D:/Blair/New Zealand/BPSM/Petromod Models/East Coast Basin_v2013/pm1d/Tuatane-1
+System::scan() after creation of Model 
+System::scan() Model data loaded 
+System::scan() Model input data saved to sim_* 
+System::scan() after creation of SimModelData 
+checkForOverlappingHorizons() (i,min,max) = (0,0.217,0.217) (1,0.1399,0.1399) (2,0.9254,0.9254) (3,0,0) (4,0.0457,0.0457) global thickness min=0[km], max=0.9254 [km]
+System::scan() after scan of SimTools 
+Run numbers: OptiRunMax=2 RiskRunMax=1 (iRRun 0 to 1, iOptiRun 1 to 2, iRiskRun 1 to 1)
+System::prepareForNextRun() after scan of Pressure Analysis 
+System::prepareForNextRun() after scan of Compaction 
+System::prepareForNextRun() after scan of Heat Analysis 
+System::prepareForNextRun() after scan of Misc. Output 
+================================================== Run 0 ==================================================
+---------------------------------------- Event 1 ----------------------------------------
+-------------------- Timestep 1 (absolute timestep 1) --------------------
+System::solve() at start of timestep  1 
+Pressure solution Event: 1 Step: 1 Time: 25 Ma
+Max Kc: 5374.4 depth: 0 loc: 0 0
+ thick: 0.548118 per: 6 visc: 0.0316881 comp: 0.117267 time: 1 iE: 1
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=3 nna=5
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 2
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=20042.4 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00200424 nnu=3 nna=5
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 1
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=19910.4 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00199104 nnu=3 nna=5
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 1
+---------- Migstep 1 ----------
+CPU Times for last Event: 
+ Pressure Analysis                     0   sec
+ Compaction                            0   sec
+ Heat Analysis                         0   sec
+ Misc. Output                          0   sec
+---------------------------------------- Event 2 ----------------------------------------
+-------------------- Timestep 1 (absolute timestep 2) --------------------
+System::solve() at start of timestep  2 
+Pressure solution Event: 2 Step: 2 Time: 23 Ma
+Max Kc: 28605.4 depth: 0 loc: 0 0
+ thick: 0.335993 per: 6 visc: 0.0316881 comp: 0.117267 time: 2 iE: 2
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=5 nna=17
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 2
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=26678.1 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00266781 nnu=5 nna=17
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 1
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=26548.5 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00265485 nnu=5 nna=17
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 1
+---------- Migstep 1 ----------
+CPU Times for last Event: 
+ Pressure Analysis                     0   sec
+ Compaction                            0   sec
+ Heat Analysis                         0   sec
+ Misc. Output                          0   sec
+---------------------------------------- Event 3 ----------------------------------------
+-------------------- Timestep 1 (absolute timestep 3) --------------------
+System::solve() at start of timestep  3 
+Pressure solution Event: 3 Step: 3 Time: 21.3333 Ma
+Max Kc: 6.51443e+007 depth: 0 loc: 0 0
+ thick: 0.444705 per: 9884.32 visc: 0.0316881 comp: 0.0403541 time: 1.6667 iE: 3
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=7 nna=29
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=22769.8 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00227698 nnu=7 nna=29
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 2
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=22634.8 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00226348 nnu=7 nna=29
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 2
+---------- Migstep 1 ----------
+-------------------- Timestep 2 (absolute timestep 4) --------------------
+System::solve() at start of timestep  4 
+Pressure solution Event: 3 Step: 4 Time: 19.6667 Ma
+Max Kc: 8.00453e+007 depth: 0 loc: 0 0
+ thick: 0.401171 per: 9884.32 visc: 0.0316881 comp: 0.0403541 time: 1.6666 iE: 4
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=9 nna=41
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=24858.3 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00248583 nnu=9 nna=41
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=24684.5 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00246845 nnu=9 nna=41
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+---------- Migstep 1 ----------
+-------------------- Timestep 3 (absolute timestep 5) --------------------
+System::solve() at start of timestep  5 
+Pressure solution Event: 3 Step: 5 Time: 18 Ma
+Max Kc: 1.05338e+008 depth: 0 loc: 0 0
+ thick: 0.349718 per: 9884.32 visc: 0.0316881 comp: 0.0403541 time: 1.6667 iE: 5
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=27916.4 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00279164 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=27758.1 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00277581 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+---------- Migstep 1 ----------
+CPU Times for last Event: 
+ Pressure Analysis                     0   sec
+ Compaction                            0   sec
+ Heat Analysis                         0   sec
+ Misc. Output                          0   sec
+---------------------------------------- Event 4 ----------------------------------------
+-------------------- Timestep 1 (absolute timestep 6) --------------------
+System::solve() at start of timestep  6 
+Pressure solution Event: 4 Step: 6 Time: 9.5 Ma
+Max Kc: 4.7968e+008 depth: 0 loc: 0 0
+ thick: 0.316463 per: 5060.9 visc: 0.0268557 comp: 0.0333436 time: 8.5 iE: 5
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 4
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=27789.8 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00277898 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=27757.6 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00277576 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+---------- Migstep 1 ----------
+-------------------- Timestep 2 (absolute timestep 7) --------------------
+System::solve() at start of timestep  7 
+Pressure solution Event: 4 Step: 7 Time: 1 Ma
+Max Kc: 4.80918e+008 depth: 0 loc: 0 0
+ thick: 0.316463 per: 5060.88 visc: 0.0267866 comp: 0.0333436 time: 8.5 iE: 5
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 4
+Contrl::writeDepositionAgeOverlay() event end (1.0000 Ma) is before end of deposition of sublayer 6 (0.0000 Ma) - correcting deposition ages
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=27789.9 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00277899 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=27757.6 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00277576 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+---------- Migstep 1 ----------
+CPU Times for last Event: 
+ Pressure Analysis                     0   sec
+ Compaction                            0   sec
+ Heat Analysis                         0   sec
+ Misc. Output                          0   sec
+---------------------------------------- Event 5 ----------------------------------------
+-------------------- Timestep 1 (absolute timestep 8) --------------------
+System::solve() at start of timestep  8 
+Pressure solution Event: 5 Step: 8 Time: 0 Ma
+Max Kc: 6.60545e+009 depth: 4.26326e-017 loc: 0 0
+ thick: 0.0460868 per: 10000 visc: 0.0316881 comp: 0.0224931 time: 1 iE: 6
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=13 nna=65
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=209065 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.0209065 nnu=13 nna=65
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 2
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=208895 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.0208895 nnu=13 nna=65
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 2
+---------- Migstep 1 ----------
+CPU Times for last Event: 
+ Pressure Analysis                     0   sec
+ Compaction                            0   sec
+ Heat Analysis                         0   sec
+ Misc. Output                          0   sec
+SimFieldSet::unsetAll() - unsetting field 16
+SimFieldSet::unsetAll() - unsetting field 17
+SimFieldSet::unsetAll() - unsetting field 18
+System::prepareForNextRun() after scan of Pressure Analysis 
+System::prepareForNextRun() after scan of Compaction 
+System::prepareForNextRun() after scan of Heat Analysis 
+System::prepareForNextRun() after scan of Biomarker Kinetics 
+System::prepareForNextRun() after scan of Biomarker Kinetics 
+System::prepareForNextRun() after scan of Biomarker Kinetics 
+System::prepareForNextRun() after scan of Rea Kinetics 
+System::prepareForNextRun() after scan of Rea Kinetics 
+System::prepareForNextRun() after scan of Rea Kinetics 
+System::prepareForNextRun() after scan of Rea Kinetics 
+System::prepareForNextRun() after scan of TTI Kinetics 
+System::prepareForNextRun() after scan of Migration 
+System::prepareForNextRun() after scan of Misc. Output 
+================================================== Run 1 ==================================================
+---------------------------------------- Event 1 ----------------------------------------
+-------------------- Timestep 1 (absolute timestep 1) --------------------
+System::solve() at start of timestep  1 
+Pressure solution Event: 1 Step: 1 Time: 25 Ma
+Max Kc: 5375.22 depth: 0 loc: 0 0
+ thick: 0.548076 per: 6 visc: 0.0316881 comp: 0.117267 time: 1 iE: 1
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=3 nna=5
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 2
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=20043.4 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00200434 nnu=3 nna=5
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 1
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=19911.4 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00199114 nnu=3 nna=5
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 1
+---------- Migstep 1 ----------
+CPU Times for last Event: 
+ Pressure Analysis                     0   sec
+ Compaction                            0   sec
+ Heat Analysis                         0   sec
+ Biomarker Kinetics                    0   sec
+ Biomarker Kinetics                    0   sec
+ Biomarker Kinetics                    0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ TTI Kinetics                          0   sec
+ Migration                             0   sec
+ Misc. Output                          0   sec
+---------------------------------------- Event 2 ----------------------------------------
+-------------------- Timestep 1 (absolute timestep 2) --------------------
+System::solve() at start of timestep  2 
+Pressure solution Event: 2 Step: 2 Time: 23 Ma
+Max Kc: 28607.4 depth: 0 loc: 0 0
+ thick: 0.335981 per: 6 visc: 0.0316881 comp: 0.117267 time: 2 iE: 2
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=5 nna=17
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 2
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=26678.8 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00266788 nnu=5 nna=17
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 1
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=26549.2 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00265492 nnu=5 nna=17
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 1
+---------- Migstep 1 ----------
+CPU Times for last Event: 
+ Pressure Analysis                     0   sec
+ Compaction                            0   sec
+ Heat Analysis                         0   sec
+ Biomarker Kinetics                    0   sec
+ Biomarker Kinetics                    0   sec
+ Biomarker Kinetics                    0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ TTI Kinetics                          0   sec
+ Migration                             0   sec
+ Misc. Output                          0   sec
+---------------------------------------- Event 3 ----------------------------------------
+-------------------- Timestep 1 (absolute timestep 3) --------------------
+System::solve() at start of timestep  3 
+Pressure solution Event: 3 Step: 3 Time: 21.3333 Ma
+Max Kc: 6.51445e+007 depth: 0 loc: 0 0
+ thick: 0.444705 per: 9884.32 visc: 0.0316881 comp: 0.0403541 time: 1.6667 iE: 3
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=7 nna=29
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=22769.8 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00227698 nnu=7 nna=29
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 2
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=22634.9 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00226349 nnu=7 nna=29
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 2
+---------- Migstep 1 ----------
+-------------------- Timestep 2 (absolute timestep 4) --------------------
+System::solve() at start of timestep  4 
+Pressure solution Event: 3 Step: 4 Time: 19.6667 Ma
+Max Kc: 8.00453e+007 depth: 0 loc: 0 0
+ thick: 0.401171 per: 9884.32 visc: 0.0316881 comp: 0.0403541 time: 1.6666 iE: 4
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=9 nna=41
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=24858.3 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00248583 nnu=9 nna=41
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=24684.5 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00246845 nnu=9 nna=41
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+---------- Migstep 1 ----------
+-------------------- Timestep 3 (absolute timestep 5) --------------------
+System::solve() at start of timestep  5 
+Pressure solution Event: 3 Step: 5 Time: 18 Ma
+Max Kc: 1.05338e+008 depth: 0 loc: 0 0
+ thick: 0.349718 per: 9884.32 visc: 0.0316881 comp: 0.0403541 time: 1.6667 iE: 5
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0.0195313 seconds, number of cycles: 3
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=27916.4 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00279164 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=27758.1 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00277581 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+---------- Migstep 1 ----------
+CPU Times for last Event: 
+ Pressure Analysis                     0   sec
+ Compaction                            0   sec
+ Heat Analysis                         0   sec
+ Biomarker Kinetics                    0   sec
+ Biomarker Kinetics                    0   sec
+ Biomarker Kinetics                    0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ TTI Kinetics                          0   sec
+ Migration                             0   sec
+ Misc. Output                          0   sec
+---------------------------------------- Event 4 ----------------------------------------
+-------------------- Timestep 1 (absolute timestep 6) --------------------
+System::solve() at start of timestep  6 
+Pressure solution Event: 4 Step: 6 Time: 9.5 Ma
+Max Kc: 4.79679e+008 depth: 0 loc: 0 0
+ thick: 0.316463 per: 5060.89 visc: 0.0268557 comp: 0.0333436 time: 8.5 iE: 5
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 4
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=27789.8 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00277898 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=27757.5 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00277575 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+---------- Migstep 1 ----------
+-------------------- Timestep 2 (absolute timestep 7) --------------------
+System::solve() at start of timestep  7 
+Pressure solution Event: 4 Step: 7 Time: 1 Ma
+Max Kc: 4.80917e+008 depth: 0 loc: 0 0
+ thick: 0.316463 per: 5060.88 visc: 0.0267866 comp: 0.0333436 time: 8.5 iE: 5
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 4
+Contrl::writeDepositionAgeOverlay() event end (1.0000 Ma) is before end of deposition of sublayer 6 (0.0000 Ma) - correcting deposition ages
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=27789.8 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00277898 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=27757.5 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.00277575 nnu=11 nna=53
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+---------- Migstep 1 ----------
+CPU Times for last Event: 
+ Pressure Analysis                     0   sec
+ Compaction                            0   sec
+ Heat Analysis                         0   sec
+ Biomarker Kinetics                    0   sec
+ Biomarker Kinetics                    0   sec
+ Biomarker Kinetics                    0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ TTI Kinetics                          0   sec
+ Migration                             0   sec
+ Misc. Output                          0   sec
+---------------------------------------- Event 5 ----------------------------------------
+-------------------- Timestep 1 (absolute timestep 8) --------------------
+System::solve() at start of timestep  8 
+Pressure solution Event: 5 Step: 8 Time: 0 Ma
+Max Kc: 6.60546e+009 depth: 4.26326e-017 loc: 0 0
+ thick: 0.0460868 per: 10000 visc: 0.0316881 comp: 0.0224931 time: 1 iE: 6
+SolverSAMG: using SCAI SAMG solver with pressure profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+            accurate pressure model - adjusting convergence criteria
+SolverSAMG: parameter: iswtch=5141 nsolve=21 eps=-1e-010 nnu=13 nna=65
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 3
+temperature run number 0
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=209065 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.0209065 nnu=13 nna=65
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 2
+temperature run number 1
+SolverSAMG: using SCAI SAMG solver with heat profile.
+SolverSAMG: small equation system, forcing SAMG to use the ILU(0) smoother
+SolverSAMG: scale stopping criteria by norm of RHS, norm=208895 eta=1e-007
+SolverSAMG: parameter: iswtch=5121 nsolve=21 eps=-0.0208895 nnu=13 nna=65
+SolverSAMG: elapsed clock time for solve was 0 seconds, number of cycles: 2
+---------- Migstep 1 ----------
+CPU Times for last Event: 
+ Pressure Analysis                     0   sec
+ Compaction                            0   sec
+ Heat Analysis                         0   sec
+ Biomarker Kinetics                    0   sec
+ Biomarker Kinetics                    0   sec
+ Biomarker Kinetics                    0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ Rea Kinetics                          0   sec
+ TTI Kinetics                          0   sec
+ Migration                             0   sec
+ Misc. Output                          0   sec
+SimFieldSet::unsetAll() - unsetting field 16
+SimFieldSet::unsetAll() - unsetting field 17
+SimFieldSet::unsetAll() - unsetting field 18

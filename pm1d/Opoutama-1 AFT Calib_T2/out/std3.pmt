@@ -1,0 +1,43 @@
+c
+c Event Definition
+c
+Head   | ID  |         Name         | Age from | Duration |
+Head   |     |                      |   [Ma]   |   [Ma]   |
+Key    | ID  |         Name         | AgeFrom  | Duration |
+Stop-------------------------------------------------------
+Format | %3d |          %s          |  %7.4f   |  %7.4f   |
+Flag   |  3  |          2           |    0     |    0     |
+c----------------------------------------------------------
+Data   |   1 | Petromod Buffer      | 100.0000 |  10.0000 |
+Data   |   2 | Formation 13_P4      |  98.0000 |   2.0000 |
+Data   |   3 | Formation 13_P3      |  96.6000 |   1.4000 |
+Data   |   4 | Formation 13_P2      |  94.0000 |   2.6000 |
+Data   |   5 | Formation 13         |  93.0000 |   1.0000 |
+Data   |   6 | Formation 12         |  86.0000 |   7.0000 |
+Data   |   7 | Formation 11         |  84.0000 |   2.0000 |
+Data   |   8 | Formation 10_P2      |  81.0000 |   3.0000 |
+Data   |   9 | Formation 10         |  80.0000 |   1.0000 |
+Data   |  10 | Event_10             |  79.0000 |   1.0000 |
+Data   |  11 | Event_11             |  75.0000 |   4.0000 |
+Data   |  12 | Event_12             |  70.0000 |   5.0000 |
+Data   |  13 | Whangai Formation_P2 |  65.0000 |   5.0000 |
+Data   |  14 | Whangai Formation    |  64.9800 |   0.0200 |
+Data   |  15 | Event_15             |  56.0000 |   8.9800 |
+Data   |  16 | Formation 8          |  55.8200 |   0.1800 |
+Data   |  17 | Event_17             |  45.9100 |   9.9100 |
+Data   |  18 | Event_18             |  45.3000 |   0.6100 |
+Data   |  19 | Event_19             |  35.0000 |  10.3000 |
+Data   |  20 | Event_20             |  30.0000 |   5.0000 |
+Data   |  21 | Formation 7          |  29.0000 |   1.0000 |
+Data   |  22 | Formation 6          |  28.0000 |   1.0000 |
+Data   |  23 | Event_23             |  27.0000 |   1.0000 |
+Data   |  24 | Formation 5          |  23.0000 |   4.0000 |
+Data   |  25 | Formation 4          |  22.0000 |   1.0000 |
+Data   |  26 | Formation 3          |  19.0000 |   3.0000 |
+Data   |  27 | Formation 2_2        |  16.0000 |   3.0000 |
+Data   |  28 | Formation 2          |  15.5000 |   0.5000 |
+Data   |  29 | Tunanui_2            |  15.0000 |   0.5000 |
+Data   |  30 | Tunanui Sst          |  13.0000 |   2.0000 |
+Data   |  31 | Event_31             |   6.0000 |   7.0000 |
+Data   |  32 | Event_32             |   4.0000 |   2.0000 |
+Data   |  33 | Event_33             |   0.0000 |   4.0000 |

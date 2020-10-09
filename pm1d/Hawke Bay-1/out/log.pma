@@ -1,0 +1,371 @@
+*****************************************************
+
+    H e r m e s     Finite Element Simulation
+  ---------------   for Basin Modeling Analysis
+
+      Version:  2013.2
+      Released: Nov 12 2013
+      Platform: WIN64
+
+*****************************************************
+Using 1 Processor:
+  0  TARANAKI.stanford.edu
+Model name: W:/Blair/New Zealand/BPSM/Petromod Models/East Coast Basin_v2013/pm1d/Hawke Bay-1
+Date/Time Tue Apr 08 14:39:22 2014
+MPI thread support: 1 (Funneled: 1)
+----------------------------------------------------------
+               List of Run Control Options :
+----------------------------------------------------------
+Option: dimension                       1     ( 1d )
+Option: max time step duration          10 Ma 
+Option: min migration steps             1 per time step
+Option: fault model                     none
+Option: use previous run to optimize    no
+Option: write T and P for all timesteps no
+Option: sampling                        no
+Option: overlay format version          10
+Option: overlay float compression       yes
+Option: write esrii files               yes
+----------------------------------------------------------
+               List of Solver Options :
+----------------------------------------------------------
+Solver: using SCAI SAMG Solver
+----------------------------------------------------------
+               List of Migration Options :
+----------------------------------------------------------
+Option: model                           generation only
+Option: open sides                      yes
+Option: permeability threshold          30% porosity 
+----------------------------------------------------------
+               License Checkout
+----------------------------------------------------------
+No of Elements: 11
+----------------------------------------------------------
+               List of Lithologies :
+----------------------------------------------------------
+            Index   ID    Name
+            -----   --    ----
+Lithology:      1 100004    SHALEsand
+Lithology:      2 100820    Sst33_Slt33_Sh33
+Lithology:      3 100001    SHALEsilt
+Lithology:      4 100027    SILTsandy
+Lithology:      5  185    Shale (organic lean, silty)
+Lithology:      6  182    Shale (typical)
+Lithology:      7  165    Sandstone (typical)
+Lithology:      8  142    Limestone (ooid grainstone)
+----------------------------------------------------------
+               List of Components :
+----------------------------------------------------------
+            Index   ID    Name
+            -----   --    ----
+Component:      1   66    Water
+
+PVT Model: Flash
+EoS Model: Peng Robinson
+Viscosity Model: Simple
+----------------------------------------------------------
+               List of Facies : 
+----------------------------------------------------------
+         Idx LithIdx Name
+         --- ------- ----
+Facies:    1     1   Facies_1
+Facies:    2     2   Facies_2
+Facies:    3     3   Facies_3
+Facies:    4     4   Facies_4
+Facies:    5     4   Facies_5
+Facies:    6     5   Facies_6
+Facies:    7     6   Facies_7
+Facies:    8     7   Facies_8
+Facies:    9     8   Facies_9
+Facies:   10     1   Facies_10
+----------------------------------------------------------
+               List of Layers :
+----------------------------------------------------------
+Layer:       1    Petromod Buffer
+Layer:       2    Whaingaroan
+Layer:       3    Waiuan
+Layer:       4    Tongaporutuan
+Layer:       5    Kapitean
+Layer:       6    Opoitian
+Layer:       7    Waipipian
+Layer:       8    Mangapanian
+Layer:       9    Nukumaruan
+Layer:      10    Hawera Series
+----------------------------------------------------------
+               List of Events :
+----------------------------------------------------------
+                                          Output Classes     
+                                      P C G T C   M P F M V V
+                                    G r o e e a S a e l i o s
+                                    e e m o m l a s t t g l r
+                                    n s p m p i t s P P r s f
+Event     Start  Duration  TSteps   - - - - - - - - - - - - -
+    1    40.000     5.000       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    2    35.000     0.700       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    3    34.300     0.300       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    4    34.000     4.000       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    5    30.000    11.300       2   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    6    18.700     1.600       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    7    17.100     7.790       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    8     9.310     0.040       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    9     9.270     0.270       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   10     9.000     0.120       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   11     8.880     2.380       2   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   12     6.500     0.100       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   13     6.400     0.890       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   14     5.510     0.400       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   15     5.110     0.110       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   16     5.000     0.700       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   17     4.300     1.250       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   18     3.050     0.050       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   19     3.000     0.500       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   20     2.500     0.050       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   21     2.450     0.050       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   22     2.400     0.800       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+   23     1.600     1.600       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+----------------------------------------------------------
+   Optimization Run : 1 ( 2 )   Risk Run : 1 ( 1 ) 
+----------------------------------------------------------
+               Allocation of the Models :                 
+----------------------------------------------------------
+     Pressure Analysis
+     Compaction Model 
+     Heat Analysis
+----------------------------------------------------------
+
+Start simulation run number: 1
+Event:   1 ( 23 )   Timestep:    1 (  25 )   Migstep:    1
+  Geologic time span: 40.000 to 35.000 Ma
+  started at Date/Time Tue Apr 08 14:39:23 2014
+Event:   2 ( 23 )   Timestep:    2 (  25 )   Migstep:    2
+  Geologic time span: 35.000 to 34.300 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:   3 ( 23 )   Timestep:    3 (  25 )   Migstep:    3
+  Geologic time span: 34.300 to 34.000 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:   4 ( 23 )   Timestep:    4 (  25 )   Migstep:    4
+  Geologic time span: 34.000 to 30.000 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:   5 ( 23 )   Timestep:    5 (  25 )   Migstep:    5
+  Geologic time span: 30.000 to 18.700 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:   6 ( 23 )   Timestep:    7 (  25 )   Migstep:    7
+  Geologic time span: 18.700 to 17.100 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:   7 ( 23 )   Timestep:    8 (  25 )   Migstep:    8
+  Geologic time span: 17.100 to 9.310 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:   8 ( 23 )   Timestep:    9 (  25 )   Migstep:    9
+  Geologic time span: 9.310 to 9.270 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:   9 ( 23 )   Timestep:   10 (  25 )   Migstep:   10
+  Geologic time span: 9.270 to 9.000 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  10 ( 23 )   Timestep:   11 (  25 )   Migstep:   11
+  Geologic time span: 9.000 to 8.880 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  11 ( 23 )   Timestep:   12 (  25 )   Migstep:   12
+  Geologic time span: 8.880 to 6.500 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  12 ( 23 )   Timestep:   14 (  25 )   Migstep:   14
+  Geologic time span: 6.500 to 6.400 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  13 ( 23 )   Timestep:   15 (  25 )   Migstep:   15
+  Geologic time span: 6.400 to 5.510 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  14 ( 23 )   Timestep:   16 (  25 )   Migstep:   16
+  Geologic time span: 5.510 to 5.110 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  15 ( 23 )   Timestep:   17 (  25 )   Migstep:   17
+  Geologic time span: 5.110 to 5.000 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  16 ( 23 )   Timestep:   18 (  25 )   Migstep:   18
+  Geologic time span: 5.000 to 4.300 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  17 ( 23 )   Timestep:   19 (  25 )   Migstep:   19
+  Geologic time span: 4.300 to 3.050 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  18 ( 23 )   Timestep:   20 (  25 )   Migstep:   20
+  Geologic time span: 3.050 to 3.000 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  19 ( 23 )   Timestep:   21 (  25 )   Migstep:   21
+  Geologic time span: 3.000 to 2.500 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  20 ( 23 )   Timestep:   22 (  25 )   Migstep:   22
+  Geologic time span: 2.500 to 2.450 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  21 ( 23 )   Timestep:   23 (  25 )   Migstep:   23
+  Geologic time span: 2.450 to 2.400 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  22 ( 23 )   Timestep:   24 (  25 )   Migstep:   24
+  Geologic time span: 2.400 to 1.600 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:  23 ( 23 )   Timestep:   25 (  25 )   Migstep:   25
+  Geologic time span: 1.600 to 0.000 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+  event done Date/Time Tue Apr 08 14:39:24 2014
+
+ --------------------------------
+
+ Simulation Run Successful !  
+ Optimization:  1.64788 % relative difference (Largest difference: 2.83979 %)
+
+ --------------------------------
+
+ --------------------------------
+
+ CPU Times:
+
+ Preprocessor                          2   sec,    66.67 %
+ Pressure Analysis                     0   sec,     0.00 %
+ Compaction                            0   sec,     0.00 %
+ Heat Analysis                         1   sec,    33.33 %
+ Misc. Output                          0   sec,     0.00 %
+ PetroCharge Final                     0   sec,     0.00 %
+ Postprocessor                         0   sec,     0.00 %
+ Total                                 3   sec,   100.00 %
+
+ incl. Percol. (Fault)                 0   sec,     0.00 %
+ incl. Percol. (Break Through)         0   sec,     0.00 %
+ incl. Overlay Output                  1   sec,    33.33 %
+
+ --------------------------------
+
+Date/Time Tue Apr 08 14:39:24 2014
+----------------------------------------------------------
+   Optimization Run : 2 ( 2 )   Risk Run : 1 ( 1 ) 
+----------------------------------------------------------
+               Allocation of the Models :                 
+----------------------------------------------------------
+     Pressure Analysis
+     Compaction Model 
+     Heat Analysis
+     Biomarker Kinetics No.1
+     Biomarker Kinetics No.2
+     Biomarker Kinetics No.3
+     Single Reaction Kinetic No.1
+     Single Reaction Kinetic No.2
+     Single Reaction Kinetic No.3
+     Single Reaction Kinetic No.4
+     TTI Kinetics 
+     Migration Model
+----------------------------------------------------------
+
+----------------------------------------------------------
+               List of Kinetics :
+----------------------------------------------------------
+
+Facies - Kinetics Assignment - 
+
+No - Secondary Cracking Defined --- 
+
+Start simulation run number: 1
+Event:   1 ( 23 )   Timestep:    1 (  25 )   Migstep:    1
+  Geologic time span: 40.000 to 35.000 Ma
+  started at Date/Time Tue Apr 08 14:39:24 2014
+Event:   2 ( 23 )   Timestep:    2 (  25 )   Migstep:    2
+  Geologic time span: 35.000 to 34.300 Ma
+  started at Date/Time Tue Apr 08 14:39:25 2014
+Event:   3 ( 23 )   Timestep:    3 (  25 )   Migstep:    3
+  Geologic time span: 34.300 to 34.000 Ma
+  started at Date/Time Tue Apr 08 14:39:25 2014
+Event:   4 ( 23 )   Timestep:    4 (  25 )   Migstep:    4
+  Geologic time span: 34.000 to 30.000 Ma
+  started at Date/Time Tue Apr 08 14:39:25 2014
+Event:   5 ( 23 )   Timestep:    5 (  25 )   Migstep:    5
+  Geologic time span: 30.000 to 18.700 Ma
+  started at Date/Time Tue Apr 08 14:39:25 2014
+Event:   6 ( 23 )   Timestep:    7 (  25 )   Migstep:    7
+  Geologic time span: 18.700 to 17.100 Ma
+  started at Date/Time Tue Apr 08 14:39:26 2014
+Event:   7 ( 23 )   Timestep:    8 (  25 )   Migstep:    8
+  Geologic time span: 17.100 to 9.310 Ma
+  started at Date/Time Tue Apr 08 14:39:26 2014
+Event:   8 ( 23 )   Timestep:    9 (  25 )   Migstep:    9
+  Geologic time span: 9.310 to 9.270 Ma
+  started at Date/Time Tue Apr 08 14:39:26 2014
+Event:   9 ( 23 )   Timestep:   10 (  25 )   Migstep:   10
+  Geologic time span: 9.270 to 9.000 Ma
+  started at Date/Time Tue Apr 08 14:39:26 2014
+Event:  10 ( 23 )   Timestep:   11 (  25 )   Migstep:   11
+  Geologic time span: 9.000 to 8.880 Ma
+  started at Date/Time Tue Apr 08 14:39:26 2014
+Event:  11 ( 23 )   Timestep:   12 (  25 )   Migstep:   12
+  Geologic time span: 8.880 to 6.500 Ma
+  started at Date/Time Tue Apr 08 14:39:26 2014
+Event:  12 ( 23 )   Timestep:   14 (  25 )   Migstep:   14
+  Geologic time span: 6.500 to 6.400 Ma
+  started at Date/Time Tue Apr 08 14:39:26 2014
+Event:  13 ( 23 )   Timestep:   15 (  25 )   Migstep:   15
+  Geologic time span: 6.400 to 5.510 Ma
+  started at Date/Time Tue Apr 08 14:39:27 2014
+Event:  14 ( 23 )   Timestep:   16 (  25 )   Migstep:   16
+  Geologic time span: 5.510 to 5.110 Ma
+  started at Date/Time Tue Apr 08 14:39:27 2014
+Event:  15 ( 23 )   Timestep:   17 (  25 )   Migstep:   17
+  Geologic time span: 5.110 to 5.000 Ma
+  started at Date/Time Tue Apr 08 14:39:27 2014
+Event:  16 ( 23 )   Timestep:   18 (  25 )   Migstep:   18
+  Geologic time span: 5.000 to 4.300 Ma
+  started at Date/Time Tue Apr 08 14:39:27 2014
+Event:  17 ( 23 )   Timestep:   19 (  25 )   Migstep:   19
+  Geologic time span: 4.300 to 3.050 Ma
+  started at Date/Time Tue Apr 08 14:39:27 2014
+Event:  18 ( 23 )   Timestep:   20 (  25 )   Migstep:   20
+  Geologic time span: 3.050 to 3.000 Ma
+  started at Date/Time Tue Apr 08 14:39:27 2014
+Event:  19 ( 23 )   Timestep:   21 (  25 )   Migstep:   21
+  Geologic time span: 3.000 to 2.500 Ma
+  started at Date/Time Tue Apr 08 14:39:27 2014
+Event:  20 ( 23 )   Timestep:   22 (  25 )   Migstep:   22
+  Geologic time span: 2.500 to 2.450 Ma
+  started at Date/Time Tue Apr 08 14:39:28 2014
+Event:  21 ( 23 )   Timestep:   23 (  25 )   Migstep:   23
+  Geologic time span: 2.450 to 2.400 Ma
+  started at Date/Time Tue Apr 08 14:39:28 2014
+Event:  22 ( 23 )   Timestep:   24 (  25 )   Migstep:   24
+  Geologic time span: 2.400 to 1.600 Ma
+  started at Date/Time Tue Apr 08 14:39:28 2014
+Event:  23 ( 23 )   Timestep:   25 (  25 )   Migstep:   25
+  Geologic time span: 1.600 to 0.000 Ma
+  started at Date/Time Tue Apr 08 14:39:28 2014
+  event done Date/Time Tue Apr 08 14:39:30 2014
+
+ --------------------------------
+
+ Simulation Run Successful !  
+ Optimization:  0.118864 % relative difference (Largest difference: 0.269462 %)
+
+ --------------------------------
+
+ --------------------------------
+
+ CPU Times:
+
+ Preprocessor                          2   sec,    22.22 %
+ Pressure Analysis                     0   sec,     0.00 %
+ Compaction                            1   sec,    11.11 %
+ Heat Analysis                         3   sec,    33.33 %
+ Biomarker Kinetics                    0   sec,     0.00 %
+ Biomarker Kinetics                    0   sec,     0.00 %
+ Biomarker Kinetics                    0   sec,     0.00 %
+ Reaction Kinetics                     0   sec,     0.00 %
+ Reaction Kinetics                     0   sec,     0.00 %
+ Reaction Kinetics                     0   sec,     0.00 %
+ Reaction Kinetics                     0   sec,     0.00 %
+ TTI Kinetics                          0   sec,     0.00 %
+ Migration                             0   sec,     0.00 %
+ Misc. Output                          0   sec,     0.00 %
+ PetroCharge Final                     3   sec,    33.33 %
+ Postprocessor                         0   sec,     0.00 %
+ Total                                 9   sec,   100.00 %
+
+ incl. Percol. (Fault)                 0   sec,     0.00 %
+ incl. Percol. (Break Through)         0   sec,     0.00 %
+ incl. Overlay Output                  4   sec,    44.44 %
+
+ --------------------------------
+
+Date/Time Tue Apr 08 14:39:30 2014
+Simulation finished at: Date/Time Tue Apr 08 14:39:30 2014
+System End

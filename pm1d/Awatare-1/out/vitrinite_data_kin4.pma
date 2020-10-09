@@ -1,0 +1,171 @@
+Vitrinite_Reactants 17 1
+Event 18.7
+Layer 17 0 values 1 0.988586 
+Event 17
+Layer 17 0 values 0.999222 0.970794 
+Layer 16 1 values 1 0.999222 
+Event 14
+Layer 17 0 values 0.99765 0.94403 
+Layer 16 1 values 0.998749 0.99765 
+Layer 15 2 values 1 0.998749 
+Event 12.98
+Layer 17 0 values 0.996735 0.932479 
+Layer 16 1 values 0.998016 0.996735 
+Layer 15 2 values 0.999283 0.998016 
+Layer 14 3 values 1 0.999283 
+Event 11
+Layer 17 0 values 0.993942 0.90515 
+Layer 16 1 values 0.995773 0.993942 
+Layer 15 2 values 0.997086 0.995773 
+Layer 14 3 values 0.999176 0.997086 
+Layer 13 4 values 1 0.999176 
+Event 9
+Layer 17 0 values 0.952895 0.78558 
+Layer 16 1 values 0.96141 0.952895 
+Layer 15 2 values 0.963195 0.96141 
+Layer 14 3 values 0.977905 0.963195 
+Layer 13 4 values 0.978912 0.977905 
+Layer 12 5 values 1 0.978912 
+Event 8
+Layer 17 0 values 0.825025 0.629923 
+Layer 16 1 values 0.846143 0.825025 
+Layer 15 2 values 0.848692 0.846143 
+Layer 14 3 values 0.884092 0.848692 
+Layer 13 4 values 0.885588 0.884092 
+Layer 12 5 values 0.997055 0.885588 
+Layer 11 6 values 1 0.997055 
+Event 7.2
+Layer 17 0 values 0.73315 0.550668 
+Layer 16 1 values 0.758022 0.73315 
+Layer 15 2 values 0.760723 0.758022 
+Layer 14 3 values 0.801892 0.760723 
+Layer 13 4 values 0.803601 0.801892 
+Layer 12 5 values 0.989303 0.803601 
+Layer 11 6 values 0.999466 0.989303 
+Layer 10 7 values 1 0.999466 
+Event 6
+Layer 17 0 values 0.634287 0.476997 
+Layer 16 1 values 0.659617 0.634287 
+Layer 15 2 values 0.662165 0.659617 
+Layer 14 3 values 0.702296 0.662165 
+Layer 13 4 values 0.704036 0.702296 
+Layer 12 5 values 0.963836 0.704036 
+Layer 11 6 values 0.9953 0.963836 
+Layer 10 7 values 0.998154 0.9953 
+Layer 9 8 values 1 0.998154 
+Event 5.3
+Layer 17 0 values 0.580148 0.438895 
+Layer 16 1 values 0.604532 0.580148 
+Layer 15 2 values 0.606897 0.604532 
+Layer 14 3 values 0.644282 0.606897 
+Layer 13 4 values 0.645975 0.644282 
+Layer 12 5 values 0.934768 0.645975 
+Layer 11 6 values 0.988128 0.934768 
+Layer 10 7 values 0.994736 0.988128 
+Layer 9 8 values 0.999588 0.994736 
+Layer 8 9 values 1 0.999588 
+Event 4.5
+Layer 17 0 values 0.515145 0.393713 
+Layer 16 1 values 0.537545 0.515145 
+Layer 15 2 values 0.539651 0.537545 
+Layer 14 3 values 0.572595 0.539651 
+Layer 13 4 values 0.574151 0.572595 
+Layer 12 5 values 0.878248 0.574151 
+Layer 11 6 values 0.968734 0.878248 
+Layer 10 7 values 0.984726 0.968734 
+Layer 9 8 values 0.998016 0.984726 
+Layer 8 9 values 0.999161 0.998016 
+Layer 7 10 values 1 0.999161 
+Event 4
+Layer 17 0 values 0.453285 0.351873 
+Layer 16 1 values 0.473106 0.453285 
+Layer 15 2 values 0.474891 0.473106 
+Layer 14 3 values 0.502449 0.474891 
+Layer 13 4 values 0.503822 0.502449 
+Layer 12 5 values 0.788479 0.503822 
+Layer 11 6 values 0.917739 0.788479 
+Layer 10 7 values 0.953399 0.917739 
+Layer 9 8 values 0.990112 0.953399 
+Layer 8 9 values 0.994324 0.990112 
+Layer 7 10 values 0.99823 0.994324 
+Layer 6 11 values 1 0.99823 
+Event 3.6
+Layer 17 0 values 0.403647 0.317693 
+Layer 16 1 values 0.42121 0.403647 
+Layer 15 2 values 0.422736 0.42121 
+Layer 14 3 values 0.445975 0.422736 
+Layer 13 4 values 0.447196 0.445975 
+Layer 12 5 values 0.699626 0.447196 
+Layer 11 6 values 0.846098 0.699626 
+Layer 10 7 values 0.901823 0.846098 
+Layer 9 8 values 0.972366 0.901823 
+Layer 8 9 values 0.982681 0.972366 
+Layer 7 10 values 0.99266 0.982681 
+Layer 6 11 values 0.999786 0.99266 
+Layer 5 12 values 1 0.999786 
+Event 2.8
+Layer 17 0 values 0.328206 0.263401 
+Layer 16 1 values 0.34226 0.328206 
+Layer 15 2 values 0.34342 0.34226 
+Layer 14 3 values 0.360769 0.34342 
+Layer 13 4 values 0.361746 0.360769 
+Layer 12 5 values 0.556802 0.361746 
+Layer 11 6 values 0.696239 0.556802 
+Layer 10 7 values 0.77052 0.696239 
+Layer 9 8 values 0.903273 0.77052 
+Layer 8 9 values 0.93228 0.903273 
+Layer 7 10 values 0.963745 0.93228 
+Layer 6 11 values 0.997726 0.963745 
+Layer 5 12 values 0.998703 0.997726 
+Layer 4 13 values 1 0.998703 
+Event 2.6
+Layer 17 0 values 0.311406 0.251041 
+Layer 16 1 values 0.324651 0.311406 
+Layer 15 2 values 0.325734 0.324651 
+Layer 14 3 values 0.341848 0.325734 
+Layer 13 4 values 0.342763 0.341848 
+Layer 12 5 values 0.523629 0.342763 
+Layer 11 6 values 0.655467 0.523629 
+Layer 10 7 values 0.729534 0.655467 
+Layer 9 8 values 0.872084 0.729534 
+Layer 8 9 values 0.906844 0.872084 
+Layer 7 10 values 0.946273 0.906844 
+Layer 6 11 values 0.995499 0.946273 
+Layer 5 12 values 0.997253 0.995499 
+Layer 4 13 values 0.999786 0.997253 
+Layer 3 14 values 1 0.999786 
+Event 2.4
+Layer 17 0 values 0.293828 0.238056 
+Layer 16 1 values 0.306218 0.293828 
+Layer 15 2 values 0.307225 0.306218 
+Layer 14 3 values 0.322026 0.307225 
+Layer 13 4 values 0.322881 0.322026 
+Layer 12 5 values 0.488106 0.322881 
+Layer 11 6 values 0.609445 0.488106 
+Layer 10 7 values 0.680797 0.609445 
+Layer 9 8 values 0.827649 0.680797 
+Layer 8 9 values 0.867933 0.827649 
+Layer 7 10 values 0.916243 0.867933 
+Layer 6 11 values 0.989746 0.916243 
+Layer 5 12 values 0.993408 0.989746 
+Layer 4 13 values 0.998978 0.993408 
+Layer 3 14 values 0.999832 0.998978 
+Layer 2 15 values 1 0.999832 
+Event 0
+Layer 17 0 values 0.196048 0.162341 
+Layer 16 1 values 0.203998 0.196048 
+Layer 15 2 values 0.204608 0.203998 
+Layer 14 3 values 0.213413 0.204608 
+Layer 13 4 values 0.213947 0.213413 
+Layer 12 5 values 0.310552 0.213947 
+Layer 11 6 values 0.382849 0.310552 
+Layer 10 7 values 0.430488 0.382849 
+Layer 9 8 values 0.546685 0.430488 
+Layer 8 9 values 0.590631 0.546685 
+Layer 7 10 values 0.655741 0.590631 
+Layer 6 11 values 0.883375 0.655741 
+Layer 5 12 values 0.915877 0.883375 
+Layer 4 13 values 0.97847 0.915877 
+Layer 3 14 values 0.995056 0.97847 
+Layer 2 15 values 0.998795 0.995056 
+Layer 1 16 values 1 0.998795 

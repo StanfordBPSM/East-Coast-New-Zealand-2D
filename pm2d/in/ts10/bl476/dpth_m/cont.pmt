@@ -1,0 +1,33 @@
+c
+c Standard Content
+c
+Head   |  ID   | Level |         Name         |
+Key    |  ID   | Level |      NameInTree      |
+Stop-------------------------------------------
+Format |  %4d  |  %2d  |          %s          |
+Flag   |   0   |   0   |          0           |
+c----------------------------------------------
+Data   | 58384 |     1 | Wanstead_Map         |
+Data   | 58385 |     1 | Waipawa_Map          |
+Data   | 58386 |     1 | Upper_Calcareous_Map |
+Data   | 58387 |     1 | Whangai_Map          |
+Data   | 58388 |     1 | Glenburn_Top_Map     |
+Data   | 58389 |     1 | Glenburn_Top_1_Map   |
+Data   | 58390 |     1 | Glenburn_Top_2_Map   |
+Data   | 58391 |     1 | Glenburn_Top_3_Map   |
+Data   | 58392 |     1 | Glenburn_Map         |
+Data   | 58393 |     1 | Glenburn_1_Map       |
+Data   | 58394 |     1 | Glenburn_2_Map       |
+Data   | 58395 |     1 | Glenburn_3_Map       |
+Data   | 58396 |     1 | Glenburn_Sub1_Map    |
+Data   | 58397 |     1 | Glenburn_Sub1_1_Map  |
+Data   | 58398 |     1 | Glenburn_Sub1_2_Map  |
+Data   | 58399 |     1 | Glenburn_Sub1_3_Map  |
+Data   | 58400 |     1 | Torlesse_Map         |
+Data   | 58401 |     1 | Torlesse_1_Map       |
+Data   | 58402 |     1 | Torlesse_2_Map       |
+Data   | 58403 |     1 | Torlesse_3_Map       |
+Data   | 58404 |     1 | Torlesse_4_Map       |
+Data   | 58405 |     1 | Decollemont_Map      |
+Data   | 58406 |     1 | Decollemont1_Map     |
+Data   | 58407 |     1 | Base_Map             |

@@ -1,0 +1,35 @@
+c
+c Standard Content
+c
+Head   |  ID   | Level |         Name         |
+Key    |  ID   | Level |      NameInTree      |
+Stop-------------------------------------------
+Format |  %4d  |  %2d  |          %s          |
+Flag   |   0   |   0   |          0           |
+c----------------------------------------------
+Data   |   277 |     1 | Horizon_13_Map       |
+Data   |   278 |     1 | Horizon_13_Sub2_Map  |
+Data   |   279 |     1 | Horizon_13_Sub1_Map  |
+Data   |   280 |     1 | Weber_Map            |
+Data   |   281 |     1 | Wanstead_Map         |
+Data   |   282 |     1 | Waipawa_Map          |
+Data   |   283 |     1 | Upper_Calcareous_Map |
+Data   |   284 |     1 | Whangai_Map          |
+Data   |   285 |     1 | Glenburn_Top_Map     |
+Data   |   286 |     1 | Glenburn_Top_1_Map   |
+Data   |   287 |     1 | Glenburn_Top_2_Map   |
+Data   |   288 |     1 | Glenburn_Top_3_Map   |
+Data   |   289 |     1 | Glenburn_Map         |
+Data   | 21606 |     1 | Glenburn_1_Map       |
+Data   | 21605 |     1 | Glenburn_2_Map       |
+Data   | 21604 |     1 | Glenburn_3_Map       |
+Data   | 21603 |     1 | Glenburn_Sub1_Map    |
+Data   | 21832 |     1 | Glenburn_Sub1_1_Map  |
+Data   | 21831 |     1 | Glenburn_Sub1_2_Map  |
+Data   | 21830 |     1 | Glenburn_Sub1_3_Map  |
+Data   | 33843 |     1 | Torlesse_Map         |
+Data   | 33842 |     1 | Torlesse_1_Map       |
+Data   | 33841 |     1 | Torlesse_2_Map       |
+Data   | 38341 |     1 | Torlesse_3_Map       |
+Data   | 38340 |     1 | Torlesse_4_Map       |
+Data   | 38339 |     1 | Decollemont_Map      |

@@ -1,0 +1,11 @@
+c
+c Grid Reference Line
+c
+Head   | Reference X | Reference Y |
+Key    |    RefX     |    RefY     |
+Stop--------------------------------
+Format |    %6.2f    |    %6.2f    |
+Flag   |      0      |      0      |
+c-----------------------------------
+Data   |    -4395.39 |        0.00 |
+Data   |   115470.45 |        0.00 |

@@ -1,0 +1,10 @@
+c IES-Software PM1D
+c begin table(Intrusion)
+Head           | Layer          | Intrusion Lithotype| Age            | Intrusion Temperature| Solidus Temperature| Magma Density  | Magma Thermal Conductivity| Magma Heat Capacity| Crystallization Heat| 
+Head           |                |                | Ma             | C              | C              | kg/m^3         | W/m/K          | kcal/kg/K      | MJ/m^3         | 
+Key            | GeoFacies      | Lithotype      | Age            | Temperature    | Solidus        | MagmaDens      | MagmaCond      | MagmaHeat      | Crystallization| 
+Stop           
+Format         | %d             | %d             | %6.4f          | %6.4f          | %6.4f          | %6.4f          | %6.4f          | %6.4f          | %6.4f          | 
+Flag           | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 
+c              
+c end table(Intrusion)

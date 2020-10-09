@@ -1,0 +1,16 @@
+c
+c Event Definition
+c
+Head   | ID  |       Name        | Age from | Duration |
+Head   |     |                   |   [Ma]   |   [Ma]   |
+Key    | ID  |       Name        | AgeFrom  | Duration |
+Stop----------------------------------------------------
+Format | %3d |        %s         |  %7.4f   |  %7.4f   |
+Flag   |  3  |         2         |    0     |    0     |
+c-------------------------------------------------------
+Data   |   1 | Tangihau MS       |  12.0000 |   2.0000 |
+Data   |   2 | Makaretu Sst      |  11.0000 |   1.0000 |
+Data   |   3 | Morere MS         |   7.0000 |   4.0000 |
+Data   |   4 | Event_4           |   1.0000 |   6.0000 |
+Data   |   5 | Claystone         |   0.9000 |   0.1000 |
+Data   |   6 | Poverty Bay Flats |   0.0000 |   0.9000 |

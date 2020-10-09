@@ -1,0 +1,9 @@
+c
+c Overlay Definitions
+c
+Head   | ID | Group | Name | Display Unit | Con | Calculate | Set | FixMin | FixMax | ColorMap | Reverse | Ranges | RangeType | FixedRangeMin | FixedRangeMax | ColorScheme | LineColor  | LineWidth | LineStipple | MaxNumComponents | Type |
+Key    | ID |  GID  | Name |     ext      | Con |    Col    | Set | FixMin | FixMax | ColorMap | Reverse | Ranges | RangeType | FixedRangeMin | FixedRangeMax | ColorScheme | Monochrome | LineWidth | LineStipple | MaxNumComponents | Type |
+Stop------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Format | %d |  %d   |  %s  |      %d      | %d  |    %d     | %d  |   %g   |   %g   |    %s    |   %d    |   %s   |    %d     |      %g       |      %g       |     %s      |     %d     |    %d     |     %d      |        %d        |  %d  |
+Flag   | 0  |   1   |  0   |      0       |  0  |     0     |  0  |   0    |   0    |    0     |    0    |   0    |     0     |       0       |       0       |      0      |     0      |     0     |      0      |        0         |  0   |
+c---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

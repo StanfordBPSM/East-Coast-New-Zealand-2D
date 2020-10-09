@@ -1,0 +1,368 @@
+<!DOCTYPE nvcml>
+<PSEFolder name="PSE Settings">
+  <TPlot name="Plot">
+    <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+    <string Name="Plot"/>
+    <string Icon="timePlot"/>
+    <int NodeId="1"/>
+    <int FrameLeft="80"/>
+    <int FrameRight="200"/>
+    <int FrameBottom="300"/>
+    <int FrameTop="80"/>
+    <bool Floating="true"/>
+    <UnitScale name="Scale">
+      <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+      <string Name="Scale"/>
+      <int XRangeUnit="24"/>
+      <int XTrafo="1"/>
+      <float XRangeFixMin="-100"/>
+      <float XRangeFixMax="0"/>
+      <int YRangeType="1"/>
+      <float YRangeFixMax="0"/>
+      <Curve name="Curve">
+        <bool displayed="false"/>
+        <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+        <string Name="Curve"/>
+        <int Type="3"/>
+        <int UnitX="24"/>
+        <int XTrafo="1"/>
+        <string Identifier="9fd9e38"/>
+      </Curve>
+    </UnitScale>
+    <Modi name="Modi">
+      <bool displayed="true"/>
+      <AxisClipperResizeMode name="AxisClipperResize mode">
+        <bool displayed="true"/>
+      </AxisClipperResizeMode>
+      <LocatorMode name="Locator Mode"/>
+      <ZoomMode name="Zoom Mode"/>
+      <LabelMode name="Label mode"/>
+      <ShiftMode name="Panning Mode"/>
+      <CurveEditMode name="Curve Edit Mode">
+        <bool displayed="true"/>
+      </CurveEditMode>
+      <FrameMode name="Frame mode">
+        <bool displayed="true"/>
+      </FrameMode>
+      <PanningMode name="Panning mode">
+        <bool displayed="true"/>
+      </PanningMode>
+    </Modi>
+    <LegendMode name="Legend mode"/>
+    <Legend name="Legend">
+      <int Width="200"/>
+      <int AlignType="2"/>
+      <int AlignXDist="90"/>
+      <int AlignYDist="90"/>
+      <int Space="5"/>
+      <CurveLegendItem name="Curve Legend Item">
+        <bool displayed="true"/>
+        <string Identifier="9fd9e38"/>
+        <string Font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+      </CurveLegendItem>
+    </Legend>
+    <Labels name="Labels"/>
+    <Logo name="Logo">
+      <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+      <string Name="Logo"/>
+      <string Icon="logo"/>
+    </Logo>
+    <PlotTitle name="PlotTitle">
+      <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+      <string Name="PlotTitle"/>
+      <string Icon="annotationTree"/>
+      <float AlignY="-2"/>
+      <string FontString="Helvetica,12,-1,5,75,0,0,0,0,0"/>
+      <string Text="DEFAULT"/>
+    </PlotTitle>
+    <Axes name="Axes">
+      <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+      <string Name="Axes"/>
+      <string Icon="annotationTree"/>
+      <Axis name="Right: ">
+        <bool displayed="false"/>
+        <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+        <string Name="Right: "/>
+        <string Icon="annotationTree"/>
+        <int AxisType="8"/>
+        <AxisLine name="Line">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Line"/>
+          <string Icon="annotationTree"/>
+          <int Type="2"/>
+          <int AxisType="8"/>
+        </AxisLine>
+        <AxisTicks name="Ticks">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Ticks"/>
+          <string Icon="annotationTree"/>
+          <int Type="2"/>
+          <int AxisType="8"/>
+        </AxisTicks>
+        <Annotation name="Annotation">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Annotation"/>
+          <string Icon="annotationTree"/>
+          <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+          <int AxisType="8"/>
+        </Annotation>
+        <AxisTitle name="Title">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Title"/>
+          <string Icon="annotationTree"/>
+          <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+          <int AxisType="8"/>
+          <string Text="DEFAULT"/>
+        </AxisTitle>
+      </Axis>
+      <Axis name="Left: ">
+        <bool displayed="false"/>
+        <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+        <string Name="Left: "/>
+        <string Icon="annotationTree"/>
+        <int AxisType="4"/>
+        <AxisLine name="Line">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Line"/>
+          <string Icon="annotationTree"/>
+          <int Type="2"/>
+          <int AxisType="4"/>
+        </AxisLine>
+        <AxisTicks name="Ticks">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Ticks"/>
+          <string Icon="annotationTree"/>
+          <int Type="2"/>
+          <int AxisType="4"/>
+        </AxisTicks>
+        <Annotation name="Annotation">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Annotation"/>
+          <string Icon="annotationTree"/>
+          <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+          <int AxisType="4"/>
+        </Annotation>
+        <AxisTitle name="Title">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Title"/>
+          <string Icon="annotationTree"/>
+          <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+          <int AxisType="4"/>
+          <string Text="DEFAULT"/>
+        </AxisTitle>
+      </Axis>
+      <Axis name="Bottom: Time">
+        <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+        <string Name="Bottom: Time"/>
+        <string Icon="annotationTree"/>
+        <int AxisType="1"/>
+        <int Unit="24"/>
+        <int Trafo="1"/>
+        <PSESlide name="PSE Axis">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="PSE Axis"/>
+          <float AlignX="-1"/>
+          <int AxisType="1"/>
+          <int Unit="24"/>
+          <int Trafo="1"/>
+        </PSESlide>
+        <AxisLine name="Line">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Line"/>
+          <string Icon="annotationTree"/>
+          <int Type="2"/>
+          <int AxisType="1"/>
+          <int Unit="24"/>
+          <int Trafo="1"/>
+        </AxisLine>
+        <AxisTicks name="Ticks">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Ticks"/>
+          <string Icon="annotationTree"/>
+          <int Type="2"/>
+          <int AxisType="1"/>
+          <int Unit="24"/>
+          <int Trafo="1"/>
+        </AxisTicks>
+        <Annotation name="Annotation">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Annotation"/>
+          <string Icon="annotationTree"/>
+          <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+          <int AxisType="1"/>
+          <int Unit="24"/>
+          <int Trafo="1"/>
+        </Annotation>
+        <AxisTitle name="Title">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Title"/>
+          <string Icon="annotationTree"/>
+          <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+          <int AxisType="1"/>
+          <int Unit="24"/>
+          <int Trafo="1"/>
+          <string Text="DEFAULT"/>
+        </AxisTitle>
+      </Axis>
+      <Axis name="Geo Time Scale">
+        <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+        <string Name="Geo Time Scale"/>
+        <string Icon="annotationTree"/>
+        <int AxisType="2"/>
+        <int Unit="24"/>
+        <int Trafo="1"/>
+        <AxisLine name="Line">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Line"/>
+          <string Icon="annotationTree"/>
+          <int Type="2"/>
+          <int AxisType="2"/>
+          <int Unit="24"/>
+          <int Trafo="1"/>
+        </AxisLine>
+        <TimeScale name="Epochs">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Epochs"/>
+          <string Icon="annotationTree"/>
+          <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+          <int AxisType="2"/>
+          <int Unit="24"/>
+          <int Trafo="1"/>
+          <int TimeScaleType="4"/>
+        </TimeScale>
+        <AxisLine name="Line">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Line"/>
+          <string Icon="annotationTree"/>
+          <int Type="2"/>
+          <int AxisType="2"/>
+          <int Unit="24"/>
+          <int Trafo="1"/>
+          <float PropVisibleMin="-9999"/>
+          <bool PropVisibleMinUsed="true"/>
+          <bool PropVisibleMaxUsed="true"/>
+        </AxisLine>
+        <TimeScale name="Periods">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Periods"/>
+          <string Icon="annotationTree"/>
+          <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+          <int AxisType="2"/>
+          <int Unit="24"/>
+          <int Trafo="1"/>
+          <int TimeScaleType="3"/>
+        </TimeScale>
+        <AxisLine name="Line">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="Line"/>
+          <string Icon="annotationTree"/>
+          <int Type="2"/>
+          <int AxisType="2"/>
+          <int Unit="24"/>
+          <int Trafo="1"/>
+          <float PropVisibleMin="-9999"/>
+          <bool PropVisibleMinUsed="true"/>
+          <bool PropVisibleMaxUsed="true"/>
+        </AxisLine>
+      </Axis>
+      <EmptyAxes name="Empty Axes">
+        <bool displayed="true"/>
+        <AxisLine name="RightAxis">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="RightAxis"/>
+          <string Icon="annotationTree"/>
+          <int Type="2"/>
+          <int AxisType="8"/>
+        </AxisLine>
+        <AxisLine name="LeftAxis">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="LeftAxis"/>
+          <string Icon="annotationTree"/>
+          <int Type="2"/>
+          <int AxisType="4"/>
+        </AxisLine>
+        <AxisLine name="TopAxis">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="TopAxis"/>
+          <string Icon="annotationTree"/>
+          <int Type="2"/>
+          <int AxisType="2"/>
+        </AxisLine>
+        <AxisLine name="BottomAxis">
+          <string Font=",8.25,-1,5,50,0,0,0,0,0"/>
+          <string Name="BottomAxis"/>
+          <string Icon="annotationTree"/>
+          <int Type="2"/>
+          <int AxisType="1"/>
+        </AxisLine>
+      </EmptyAxes>
+    </Axes>
+  </TPlot>
+  <PSElement name="Overburden Rock">
+    <bool displayed="true"/>
+    <int Type="3"/>
+    <string Name="Overburden Rock"/>
+    <color Color="4291998860"/>
+    <bool TimeMinimumEditable="false"/>
+    <bool TimeMaximumEditable="false"/>
+  </PSElement>
+  <PSElement name="Seal Rock">
+    <bool displayed="true"/>
+    <int Type="3"/>
+    <string Name="Seal Rock"/>
+    <color Color="4286915008"/>
+    <bool TimeMinimumEditable="false"/>
+    <bool TimeMaximumEditable="false"/>
+  </PSElement>
+  <PSElement name="Reservoir Rock">
+    <bool displayed="true"/>
+    <int Type="3"/>
+    <string Name="Reservoir Rock"/>
+    <color Color="4294953728"/>
+    <bool TimeMinimumEditable="false"/>
+    <bool TimeMaximumEditable="false"/>
+  </PSElement>
+  <PSElement name="Source Rock">
+    <bool displayed="true"/>
+    <int Type="3"/>
+    <string Name="Source Rock"/>
+    <color Color="4281479730"/>
+    <bool TimeMinimumEditable="false"/>
+    <bool TimeMaximumEditable="false"/>
+  </PSElement>
+  <PSElement name="Underburden Rock">
+    <bool displayed="true"/>
+    <int Type="3"/>
+    <string Name="Underburden Rock"/>
+    <color Color="4290032820"/>
+    <bool TimeMinimumEditable="false"/>
+    <bool TimeMaximumEditable="false"/>
+  </PSElement>
+  <PSElement name="Trap Formation">
+    <bool displayed="true"/>
+    <int Type="0"/>
+    <string Name="Trap Formation"/>
+    <color Color="4278190335"/>
+  </PSElement>
+  <PSElement name="Gen/Mig/Accum">
+    <bool displayed="true"/>
+    <int Type="0"/>
+    <string Name="Gen/Mig/Accum"/>
+    <color Color="4278222848"/>
+  </PSElement>
+  <PSElement name="Preservation">
+    <bool displayed="true"/>
+    <int Type="0"/>
+    <string Name="Preservation"/>
+    <color Color="4286644096"/>
+  </PSElement>
+  <PSElement name="Critical Moment">
+    <bool displayed="true"/>
+    <int Type="1"/>
+    <string Name="Critical Moment"/>
+    <int LineWidth="3"/>
+    <color Color="4294901760"/>
+    <bool TimeMaximumEditable="false"/>
+    <bool LineWidthEditable="true"/>
+  </PSElement>
+</PSEFolder>

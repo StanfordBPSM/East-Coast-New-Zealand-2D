@@ -1,0 +1,26 @@
+c
+c Sediment Water Interface Temperature 1D
+c
+Head   |   Age    |  SWIT  |
+Head   |   [Ma]   |  [°C]  |
+Key    |   Age    | Value  |
+Stop------------------------
+Format |  %6.4f   | %6.2f  |
+Flag   |    1     |   0    |
+c---------------------------
+Data   |   0.0000 |  13.84 |
+Data   |   2.4000 |   5.00 |
+Data   |   2.4500 |   5.00 |
+Data   |   3.0500 |   5.00 |
+Data   |   4.3000 |   5.00 |
+Data   |   5.1100 |   5.00 |
+Data   |   5.5100 |   5.00 |
+Data   |   6.5000 |   5.00 |
+Data   |   8.8800 |   5.00 |
+Data   |   9.2700 |   5.00 |
+Data   |   9.3100 |   5.00 |
+Data   |  17.1000 |   5.00 |
+Data   |  30.0000 |  12.81 |
+Data   |  34.3000 |  13.27 |
+Data   |  65.0000 |  13.29 |
+Data   | 100.0000 |  20.15 |

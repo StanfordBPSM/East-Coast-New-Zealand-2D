@@ -1,0 +1,19 @@
+c IES-Software PM1D
+c begin table(Main Input)
+Head           | LayerID        | Layer          | Top            | Base           | Thickness      | Eroded         | Deposition Begin| Deposition End | Erosion Begin  | Erosion End    | Lithology      | PSE            | TOC            | Kinetic        | HI             | 
+Head           | []             | []             | [m]            | [m]            | [m]            | [m]            | [Ma]           | [Ma]           | [Ma]           | [Ma]           | []             | []             | [%]            | []             | [mgHC/gTOC]    | 
+Key            | ID             | Name           | Top            | Base           | Thickness      | Eroded         | DepoFrom       | DepoTo         | EroFrom        | EroTo          | Lithology      | PSE            | TOCValue       | MulGen         | MulHIVal       | 
+Stop           
+Format         | %3d            | %s             | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %3d            | %3d            | %6.4f          | %3d            | %6.4f          | 
+Flag           | 1              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 
+c              
+Data           | 1              | Mahanga Mudstone| -1.5000        | 387.0000       | 388.5000       | 500.0000       | 3.6000         | 3.0000         | 3.0000         | 0.0000         | 193            |                |                |                |                | 
+Data           | 2              | Mangatoro Formation| 387.0000       | 1378.0000      | 991.0000       |                | 5.3000         | 3.6000         |                |                | 100900         |                |                |                |                | 
+Data           | 3              | Haupori Sandstone| 1378.0000      | 1560.0000      | 182.0000       |                | 6.0000         | 5.3000         |                |                | 165            |                |                |                |                | 
+Data           | 4              | Waitere Formation| 1560.0000      | 1932.0000      | 372.0000       |                | 11.0000        | 6.0000         |                |                | 193            |                |                |                |                | 
+Data           | 5              | Weber Formation| 1932.0000      | 2105.0000      | 173.0000       | 0.0000         | 34.5000        | 27.3000        | 27.3000        | 11.0000        | 100833         |                |                |                |                | 
+Data           | 6              | Wanstead Formation| 2105.0000      | 2738.0000      | 633.0000       |                | 50.0000        | 34.5000        |                |                | 100834         |                |                |                |                | 
+Data           | 7              | Whangai Formation| 2738.0000      | 3060.0000      | 322.0000       | 0.0000         | 70.0000        | 56.0000        | 56.0000        | 50.0000        | 182            |                |                |                |                | 
+Data           | 8              | Glenburn Formation| 3060.0000      | 3236.0000      | 176.0000       |                | 80.0000        | 70.0000        |                |                | 100857         |                |                |                |                | 
+Data           | 9              | Petromod Buffer| 3236.0000      | 3436.0000      | 200.0000       |                | 84.0000        | 80.0000        |                |                | 100004         |                |                |                |                | 
+c end table(Main Input)

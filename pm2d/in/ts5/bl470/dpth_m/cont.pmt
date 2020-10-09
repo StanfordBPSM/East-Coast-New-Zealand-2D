@@ -1,0 +1,12 @@
+c
+c Standard Content
+c
+Head   |  ID   | Level |       Name       |
+Key    |  ID   | Level |    NameInTree    |
+Stop---------------------------------------
+Format |  %4d  |  %2d  |        %s        |
+Flag   |   0   |   0   |        0         |
+c------------------------------------------
+Data   | 57280 |     1 | Decollemont_Map  |
+Data   | 57281 |     1 | Decollemont1_Map |
+Data   | 57282 |     1 | Base_Map         |

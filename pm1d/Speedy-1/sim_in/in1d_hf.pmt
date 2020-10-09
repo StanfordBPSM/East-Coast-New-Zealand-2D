@@ -1,0 +1,12 @@
+c
+c Heat Flow 1D
+c
+Head   |   Age    |    HF    |
+Head   |   [Ma]   | [mW/m^2] |
+Key    |   Age    |  Value   |
+Stop--------------------------
+Format |  %6.4f   |  %6.2f   |
+Flag   |    1     |    0     |
+c-----------------------------
+Data   |   0.0000 |    60.00 |
+Data   | 200.0000 |    60.00 |

@@ -1,0 +1,25 @@
+Vitrinite_Reactants 5 1
+Event 12
+Layer 5 0 values 1 0.96939 
+Event 11
+Layer 5 0 values 0.999542 0.909392 
+Layer 4 1 values 1 0.999542 
+Event 7
+Layer 5 0 values 0.871626 0.497719 
+Layer 4 1 values 0.88426 0.871626 
+Layer 3 2 values 1 0.88426 
+Event 1
+Layer 5 0 values 0.619623 0.325078 
+Layer 4 1 values 0.63714 0.619623 
+Layer 3 2 values 0.997559 0.63714 
+Event 0.9
+Layer 5 0 values 0.617472 0.323888 
+Layer 4 1 values 0.634974 0.617472 
+Layer 3 2 values 0.997498 0.634974 
+Layer 2 3 values 1 0.999939 
+Event 0
+Layer 5 0 values 0.5935 0.312764 
+Layer 4 1 values 0.610544 0.5935 
+Layer 3 2 values 0.995117 0.610544 
+Layer 2 3 values 0.998505 0.997528 
+Layer 1 4 values 1 0.998505 

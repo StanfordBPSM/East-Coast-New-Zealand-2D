@@ -1,0 +1,31 @@
+FLEM v.1
+FaciesExistence 1 1 1 5 
+FaciesExistence 1 2 0 
+FaciesExistence 1 3 0 
+FaciesExistence 1 4 0 
+FaciesExistence 1 5 0 
+FaciesExistence 2 1 1 5 
+FaciesExistence 2 2 1 4 
+FaciesExistence 2 3 0 
+FaciesExistence 2 4 0 
+FaciesExistence 2 5 0 
+FaciesExistence 3 1 1 5 
+FaciesExistence 3 2 1 4 
+FaciesExistence 3 3 1 3 
+FaciesExistence 3 4 0 
+FaciesExistence 3 5 0 
+FaciesExistence 4 1 1 5 
+FaciesExistence 4 2 1 4 
+FaciesExistence 4 3 1 3 
+FaciesExistence 4 4 0 
+FaciesExistence 4 5 0 
+FaciesExistence 5 1 1 5 
+FaciesExistence 5 2 1 4 
+FaciesExistence 5 3 1 3 
+FaciesExistence 5 4 1 2 
+FaciesExistence 5 5 0 
+FaciesExistence 6 1 1 5 
+FaciesExistence 6 2 1 4 
+FaciesExistence 6 3 1 3 
+FaciesExistence 6 4 1 2 
+FaciesExistence 6 5 1 1 

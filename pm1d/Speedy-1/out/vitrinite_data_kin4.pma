@@ -1,0 +1,45 @@
+Vitrinite_Reactants 8 1
+Event 3.6
+Layer 8 0 values 1 0.895003 
+Event 3
+Layer 8 0 values 0.999268 0.860304 
+Layer 7 1 values 1 0.999268 
+Event 2.75
+Layer 8 0 values 0.99852 0.845182 
+Layer 7 1 values 0.999878 0.99852 
+Layer 6 2 values 1 0.999878 
+Event 2.4
+Layer 8 0 values 0.997177 0.826139 
+Layer 7 1 values 0.999619 0.997177 
+Layer 6 2 values 0.999817 0.999619 
+Layer 5 3 values 1 0.999817 
+Event 2
+Layer 8 0 values 0.995087 0.803998 
+Layer 7 1 values 0.999176 0.995087 
+Layer 6 2 values 0.999512 0.999176 
+Layer 5 3 values 0.999802 0.999512 
+Layer 4 4 values 1 0.999802 
+Event 1
+Layer 8 0 values 0.988861 0.753643 
+Layer 7 1 values 0.997772 0.988861 
+Layer 6 2 values 0.99855 0.997772 
+Layer 5 3 values 0.999161 0.99855 
+Layer 4 4 values 0.999573 0.999161 
+Layer 3 5 values 1 0.999573 
+Event 0.5
+Layer 8 0 values 0.985458 0.732174 
+Layer 7 1 values 0.996979 0.985458 
+Layer 6 2 values 0.998001 0.996979 
+Layer 5 3 values 0.998795 0.998001 
+Layer 4 4 values 0.999329 0.998795 
+Layer 3 5 values 0.999771 0.999329 
+Layer 2 6 values 1 0.999771 
+Event 0
+Layer 8 0 values 0.981292 0.711009 
+Layer 7 1 values 0.995941 0.981292 
+Layer 6 2 values 0.997284 0.995941 
+Layer 5 3 values 0.998306 0.997284 
+Layer 4 4 values 0.998993 0.998306 
+Layer 3 5 values 0.999451 0.998993 
+Layer 2 6 values 0.999741 0.999451 
+Layer 1 7 values 1 0.999741 

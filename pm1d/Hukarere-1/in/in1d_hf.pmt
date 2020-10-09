@@ -1,0 +1,19 @@
+c IES-Software PM1D
+c begin table(Heat Flow)
+Head           | Age            | HF             | 
+Head           | Ma             | mW/m^2         | 
+Key            | Age            | Value          | 
+Stop           
+Format         | %6.4f          | %6.2f          | 
+Flag           | 1              | 0              | 
+c              
+Data           | 0              | 27             | 
+Data           | 5              | 27             | 
+Data           | 25             | 27             | 
+Data           | 33             | 70             | 
+Data           | 35             | 85             | 
+Data           | 40             | 40             | 
+Data           | 60             | 30             | 
+Data           | 75             | 30             | 
+Data           | 80             | 30             | 
+c end table(Heat Flow)

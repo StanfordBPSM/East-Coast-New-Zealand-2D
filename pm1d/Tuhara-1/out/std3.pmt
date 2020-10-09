@@ -1,0 +1,22 @@
+c
+c Event Definition
+c
+Head   | ID  |      Name      | Age from | Duration |
+Head   |     |                |   [Ma]   |   [Ma]   |
+Key    | ID  |      Name      | AgeFrom  | Duration |
+Stop-------------------------------------------------
+Format | %3d |       %s       |  %7.4f   |  %7.4f   |
+Flag   |  3  |       2        |    0     |    0     |
+c----------------------------------------------------
+Data   |   1 | Waingaromia MS |  15.0000 |   1.0000 |
+Data   |   2 | Tunanui Sst    |  14.0000 |   1.0000 |
+Data   |   3 | Tangihau MS    |  13.0000 |   1.0000 |
+Data   |   4 | Makaretu-D Sst |  11.0000 |   2.0000 |
+Data   |   5 | Pindari MS     |   9.0000 |   2.0000 |
+Data   |   6 | Poha           |   7.2000 |   1.8000 |
+Data   |   7 | Tuhara         |   5.3300 |   1.8700 |
+Data   |   8 | Event_8        |   3.6000 |   1.7300 |
+Data   |   9 | Tahaenui LS    |   3.1000 |   0.5000 |
+Data   |  10 | Wairoa         |   2.4000 |   0.7000 |
+Data   |  11 | Event_11       |   1.0000 |   1.4000 |
+Data   |  12 | Unnamed        |   0.0000 |   1.0000 |

@@ -1,0 +1,198 @@
+WELL {
+	LISTS {	"ALL"	}
+	NAME	"Rere-1"
+	CNAME	"none"
+	FILE	"0014"
+	UWI	"UWI_001_6"
+	CMT	""
+	SurfaceX	0.000000
+	SurfaceY	0.000000
+	BottomHoleX	0.000000
+	BottomHoleY	0.000000
+	StartElevation	482.000000
+	TotalDrillDepth	4352.000000
+	TrueVerticalDepth	4352.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL"	}
+	NAME	"Titihaoa-1"
+	CNAME	"none"
+	FILE	"0013"
+	UWI	"UWI_001_005"
+	CMT	""
+	SurfaceX	0.000000
+	SurfaceY	0.000000
+	BottomHoleX	0.000000
+	BottomHoleY	0.000000
+	StartElevation	13.100000
+	TotalDrillDepth	2740.000000
+	TrueVerticalDepth	2740.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL"	}
+	NAME	"Tawatawa-1"
+	CNAME	"none"
+	FILE	"0006"
+	UWI	"-21.5"
+	CMT	""
+	SurfaceX	0.000000
+	SurfaceY	0.000000
+	BottomHoleX	0.000000
+	BottomHoleY	0.000000
+	StartElevation	22.000000
+	TotalDrillDepth	1560.000000
+	TrueVerticalDepth	1560.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL"	}
+	NAME	"Hukarere-1"
+	CNAME	"none"
+	FILE	"0005"
+	UWI	"UWI_001_4"
+	CMT	""
+	SurfaceX	0.000000
+	SurfaceY	0.000000
+	BottomHoleX	0.000000
+	BottomHoleY	0.000000
+	StartElevation	6.000000
+	TotalDrillDepth	3230.000000
+	TrueVerticalDepth	3230.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL"	}
+	NAME	"Opoutama-1"
+	CNAME	"none"
+	FILE	"0004"
+	UWI	"UWI_001_003"
+	CMT	""
+	SurfaceX	0.000000
+	SurfaceY	0.000000
+	BottomHoleX	0.000000
+	BottomHoleY	0.000000
+	StartElevation	18.000000
+	TotalDrillDepth	3657.000000
+	TrueVerticalDepth	3657.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL"	}
+	NAME	"KiaKia-1"
+	CNAME	"none"
+	FILE	"0003"
+	UWI	"UWI_001_002"
+	CMT	""
+	SurfaceX	0.000000
+	SurfaceY	0.000000
+	BottomHoleX	0.000000
+	BottomHoleY	0.000000
+	StartElevation	279.000000
+	TotalDrillDepth	1946.000000
+	TrueVerticalDepth	1946.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL"	}
+	NAME	"Hawke Bay-1"
+	CNAME	"none"
+	FILE	"0002"
+	UWI	"UWI_001_1"
+	CMT	""
+	SurfaceX	12600.000000
+	SurfaceY	0.000000
+	BottomHoleX	0.000000
+	BottomHoleY	0.000000
+	StartElevation	10.000000
+	TotalDrillDepth	2372.000000
+	TrueVerticalDepth	2372.000000
+	COLOR	-16777088
+	SYMBOL	15
+	SIZE	15
+}
+WELL {
+	LISTS {	"ALL"	}
+	NAME	"Awatere-1"
+	CNAME	"none"
+	FILE	"0001"
+	UWI	"UWI_001"
+	CMT	""
+	SurfaceX	0.000000
+	SurfaceY	0.000000
+	BottomHoleX	0.000000
+	BottomHoleY	0.000000
+	StartElevation	10.000000
+	TotalDrillDepth	2126.000000
+	TrueVerticalDepth	2126.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL"	}
+	NAME	"PS3"
+	CNAME	"none"
+	FILE	"0010"
+	UWI	"UWI_001_1_1"
+	CMT	""
+	SurfaceX	12600.000000
+	SurfaceY	0.000000
+	BottomHoleX	0.000000
+	BottomHoleY	0.000000
+	StartElevation	10.000000
+	TotalDrillDepth	2372.000000
+	TrueVerticalDepth	2372.000000
+	COLOR	-16777088
+	SYMBOL	15
+	SIZE	15
+}
+WELL {
+	LISTS {	"ALL"	}
+	NAME	"PS1"
+	CNAME	"none"
+	FILE	"0011"
+	UWI	"UWI_001_1_2"
+	CMT	""
+	SurfaceX	12600.000000
+	SurfaceY	0.000000
+	BottomHoleX	0.000000
+	BottomHoleY	0.000000
+	StartElevation	10.000000
+	TotalDrillDepth	2372.000000
+	TrueVerticalDepth	2372.000000
+	COLOR	-16777088
+	SYMBOL	15
+	SIZE	15
+}
+WELL {
+	LISTS {	"ALL"	}
+	NAME	"PS2"
+	CNAME	"none"
+	FILE	"0012"
+	UWI	"UWI_001_1_3"
+	CMT	""
+	SurfaceX	12600.000000
+	SurfaceY	0.000000
+	BottomHoleX	0.000000
+	BottomHoleY	0.000000
+	StartElevation	10.000000
+	TotalDrillDepth	2372.000000
+	TrueVerticalDepth	2372.000000
+	COLOR	-16777088
+	SYMBOL	15
+	SIZE	15
+}

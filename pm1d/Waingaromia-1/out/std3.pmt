@@ -1,0 +1,13 @@
+c
+c Event Definition
+c
+Head   | ID  |      Name      | Age from | Duration |
+Head   |     |                |   [Ma]   |   [Ma]   |
+Key    | ID  |      Name      | AgeFrom  | Duration |
+Stop-------------------------------------------------
+Format | %3d |       %s       |  %7.4f   |  %7.4f   |
+Flag   |  3  |       2        |    0     |    0     |
+c----------------------------------------------------
+Data   |   1 | Waingaromia MS |  15.1000 |   3.6000 |
+Data   |   2 | Event_2        |   1.0000 |  14.1000 |
+Data   |   3 | Alluvium       |   0.0000 |   1.0000 |

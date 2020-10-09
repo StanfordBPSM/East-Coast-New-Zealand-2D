@@ -1,0 +1,25 @@
+c
+c Standard Content
+c
+Head   |  ID   | Level |         Name         |
+Key    |  ID   | Level |      NameInTree      |
+Stop-------------------------------------------
+Format |  %4d  |  %2d  |          %s          |
+Flag   |   0   |   0   |          0           |
+c----------------------------------------------
+Data   | 19958 |     1 | Horizon_13_Sub2_Map  |
+Data   | 19959 |     1 | Horizon_13_Sub1_Map  |
+Data   | 19960 |     1 | Weber_Map            |
+Data   | 19961 |     1 | Wanstead_Map         |
+Data   | 19962 |     1 | Waipawa_Map          |
+Data   | 19963 |     1 | Upper_Calcareous_Map |
+Data   | 19964 |     1 | Whangai_Map          |
+Data   | 19965 |     1 | Glenburn_Top_Map     |
+Data   | 19966 |     1 | Glenburn_Top_1_Map   |
+Data   | 19967 |     1 | Glenburn_Top_2_Map   |
+Data   | 33858 |     1 | Glenburn_Top_3_Map   |
+Data   | 33857 |     1 | Glenburn_Map         |
+Data   | 33856 |     1 | Glenburn_1_Map       |
+Data   | 38356 |     1 | Glenburn_2_Map       |
+Data   | 38355 |     1 | Glenburn_3_Map       |
+Data   | 38354 |     1 | Glenburn_Sub1_Map    |

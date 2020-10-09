@@ -1,0 +1,26 @@
+c
+c Block Assignment
+c
+Head   | ID  |  Block   |    Block     | Active |
+Head   |     | Boundary |     Name     |        |
+Key    | ID  | Boundary | ModelBlockID | Active |
+Stop---------------------------------------------
+Format | %3d |   %3d    |     %3d      |  %3d   |
+Flag   |  1  |    0     |      0       |   0    |
+c------------------------------------------------
+Data   |   8 |       -1 |           -1 |      0 |
+Data   | 213 |      149 |            3 |      1 |
+Data   | 214 |      150 |           17 |      1 |
+Data   | 217 |      153 |           16 |      1 |
+Data   | 216 |      152 |           15 |      1 |
+Data   | 215 |      151 |           14 |      1 |
+Data   | 218 |      154 |           13 |      1 |
+Data   | 219 |      155 |           12 |      1 |
+Data   | 220 |      156 |           11 |      1 |
+Data   | 221 |      157 |           10 |      1 |
+Data   | 222 |      158 |            9 |      1 |
+Data   | 223 |      159 |            8 |      1 |
+Data   | 224 |      160 |            7 |      1 |
+Data   | 225 |      161 |            6 |      1 |
+Data   | 226 |      162 |            5 |      1 |
+Data   | 473 |      367 |            4 |      1 |

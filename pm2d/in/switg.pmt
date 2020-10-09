@@ -1,0 +1,12 @@
+c
+c Sediment Water Interface Temperature Trend Groups
+c
+Head   | ID  | Assigned |      Name      |
+Key    | ID  | Assigned |      Name      |
+Stop--------------------------------------
+Format | %3d |   %1d    |       %s       |
+Flag   |  0  |    0     |       0        |
+c-----------------------------------------
+Data   |   2 |       -1 | SWIT_Grid_50   |
+Data   |   3 |       -1 | SWIT_Grid_650  |
+Data   |   4 |       -1 | SWIT_Grid_1250 |

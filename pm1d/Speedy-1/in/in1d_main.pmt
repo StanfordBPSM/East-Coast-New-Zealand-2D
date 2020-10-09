@@ -1,0 +1,18 @@
+c IES-Software PM1D
+c begin table(Main Input)
+Head           | LayerID        | Layer          | Top            | Base           | Thickness      | Eroded         | Deposition Begin| Deposition End | Erosion Begin  | Erosion End    | Lithology      | PSE            | TOC            | Kinetic        | HI             | 
+Head           | []             | []             | [m]            | [m]            | [m]            | [m]            | [Ma]           | [Ma]           | [Ma]           | [Ma]           | []             | []             | [%]            | []             | [mgHC/gTOC]    | 
+Key            | ID             | Name           | Top            | Base           | Thickness      | Eroded         | DepoFrom       | DepoTo         | EroFrom        | EroTo          | Lithology      | PSE            | TOCValue       | MulGen         | MulHIVal       | 
+Stop           
+Format         | %3d            | %s             | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %6.2f          | %3d            | %3d            | %6.4f          | %3d            | %6.4f          | 
+Flag           | 1              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 0              | 
+c              
+Data           | 1              | Alluvium Gravels| 0.0000         | 52.0000        | 52.0000        |                | 0.5000         | 0.0000         |                |                | 100905         |                |                |                |                | 
+Data           | 2              | Quaternary Clays| 52.0000        | 69.0000        | 17.0000        |                | 1.0000         | 0.5000         |                |                | 182            |                |                |                |                | 
+Data           | 3              | Pukeora Oyster Beds| 69.0000        | 81.0000        | 12.0000        |                | 2.0000         | 1.0000         |                |                | 142            |                |                |                |                | 
+Data           | 4              | Makaretu MS    | 81.0000        | 112.0000       | 31.0000        |                | 2.4000         | 2.0000         |                |                | 182            |                |                |                |                | 
+Data           | 5              | Te Onepu LS    | 112.0000       | 180.0000       | 68.0000        |                | 2.7500         | 2.4000         |                |                | 142            |                |                |                |                | 
+Data           | 6              | Tuituki Sst    | 180.0000       | 245.0000       | 65.0000        |                | 3.0000         | 2.7500         |                |                | 100906         |                |                |                |                | 
+Data           | 7              | mid-Plio Clay  | 245.0000       | 447.0000       | 202.0000       |                | 3.6000         | 3.0000         |                |                | 100907         |                |                |                |                | 
+Data           | 8              | late Mio Clay  | 447.0000       | 871.0000       | 424.0000       |                | 10.0000        | 3.6000         |                |                | 182            |                |                |                |                | 
+c end table(Main Input)

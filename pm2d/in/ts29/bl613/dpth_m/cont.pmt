@@ -1,0 +1,29 @@
+c
+c Standard Content
+c
+Head   |  ID   | Level |        Name         |
+Key    |  ID   | Level |     NameInTree      |
+Stop------------------------------------------
+Format |  %4d  |  %2d  |         %s          |
+Flag   |   0   |   0   |          0          |
+c---------------------------------------------
+Data   | 60503 |     1 | Glenburn_Top_Map    |
+Data   | 60504 |     1 | Glenburn_Top_1_Map  |
+Data   | 60505 |     1 | Glenburn_Top_2_Map  |
+Data   | 60506 |     1 | Glenburn_Top_3_Map  |
+Data   | 60507 |     1 | Glenburn_Map        |
+Data   | 60508 |     1 | Glenburn_1_Map      |
+Data   | 60509 |     1 | Glenburn_2_Map      |
+Data   | 60510 |     1 | Glenburn_3_Map      |
+Data   | 60511 |     1 | Glenburn_Sub1_Map   |
+Data   | 60512 |     1 | Glenburn_Sub1_1_Map |
+Data   | 60513 |     1 | Glenburn_Sub1_2_Map |
+Data   | 60514 |     1 | Glenburn_Sub1_3_Map |
+Data   | 60515 |     1 | Torlesse_Map        |
+Data   | 60516 |     1 | Torlesse_1_Map      |
+Data   | 60517 |     1 | Torlesse_2_Map      |
+Data   | 60518 |     1 | Torlesse_3_Map      |
+Data   | 60519 |     1 | Torlesse_4_Map      |
+Data   | 60520 |     1 | Decollemont_Map     |
+Data   | 60521 |     1 | Decollemont1_Map    |
+Data   | 60522 |     1 | Base_Map            |

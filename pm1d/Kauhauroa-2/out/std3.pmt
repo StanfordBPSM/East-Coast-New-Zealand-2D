@@ -1,0 +1,23 @@
+c
+c Event Definition
+c
+Head   | ID  |      Name      | Age from | Duration |
+Head   |     |                |   [Ma]   |   [Ma]   |
+Key    | ID  |      Name      | AgeFrom  | Duration |
+Stop-------------------------------------------------
+Format | %3d |       %s       |  %7.4f   |  %7.4f   |
+Flag   |  3  |       2        |    0     |    0     |
+c----------------------------------------------------
+Data   |   1 | Wheao Fm       |  14.0000 |   4.0000 |
+Data   |   2 | Kauhauroa LS   |  13.0000 |   1.0000 |
+Data   |   3 | Pindari MS     |  12.0000 |   1.0000 |
+Data   |   4 | Makareoa Sst   |  11.0000 |   1.0000 |
+Data   |   5 | Pindari MS_1   |  10.0000 |   1.0000 |
+Data   |   6 | Makareoa Sst_1 |   8.0000 |   2.0000 |
+Data   |   7 | Poha           |   5.3300 |   2.6700 |
+Data   |   8 | Opoiti LS      |   4.6000 |   0.7300 |
+Data   |   9 | Opoiti         |   3.6000 |   1.0000 |
+Data   |  10 | Tahaenui       |   3.0000 |   0.6000 |
+Data   |  11 | Wairoa         |   2.4000 |   0.6000 |
+Data   |  12 | Event_12       |   1.0000 |   1.4000 |
+Data   |  13 | Unnamed        |   0.0000 |   1.0000 |

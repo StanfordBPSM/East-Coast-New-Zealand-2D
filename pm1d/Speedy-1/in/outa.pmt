@@ -1,0 +1,19 @@
+c
+c Output ages
+c
+Head   | Output Age | General | Fluid Pressure | Compaction | Rock Stress  | Temperature |  Maturity   | Saturations | Masses |    Volumes     |  Volumes  | Petroleum  |   Fault    | Migration  |
+Head   |            |         |                |            |              |             |             |             |        |   (Surface)    | (In situ) | Properties | Properties | Properties |
+Key    | OutputAge  | General |    Pressure    | Compaction | Geomechanics | Temperature | Calibration | Saturations | Masses | SurfaceVolumes |  Volumes  | PetrolPro  | FaultProps | Migration  |
+Stop-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Format |   %6.4f    |   %3d   |      %3d       |    %3d     |     %3d      |     %3d     |     %3d     |     %3d     |  %3d   |      %3d       |    %3d    |    %3d     |    %3d     |    %3d     |
+Flag   |     0      |    0    |       0        |     0      |      0       |      0      |      0      |      0      |   0    |       0        |     0     |     0      |     0      |     0      |
+c--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Data   |     0.0000 |       1 |              1 |          1 |            1 |           1 |           1 |           1 |      1 |              1 |         1 |          1 |          1 |          1 |
+Data   |     0.5000 |       1 |              1 |          1 |            1 |           1 |           1 |           1 |      1 |              1 |         1 |          1 |          1 |          1 |
+Data   |     1.0000 |       1 |              1 |          1 |            1 |           1 |           1 |           1 |      1 |              1 |         1 |          1 |          1 |          1 |
+Data   |     2.0000 |       1 |              1 |          1 |            1 |           1 |           1 |           1 |      1 |              1 |         1 |          1 |          1 |          1 |
+Data   |     2.4000 |       1 |              1 |          1 |            1 |           1 |           1 |           1 |      1 |              1 |         1 |          1 |          1 |          1 |
+Data   |     2.7500 |       1 |              1 |          1 |            1 |           1 |           1 |           1 |      1 |              1 |         1 |          1 |          1 |          1 |
+Data   |     3.0000 |       1 |              1 |          1 |            1 |           1 |           1 |           1 |      1 |              1 |         1 |          1 |          1 |          1 |
+Data   |     3.6000 |       1 |              1 |          1 |            1 |           1 |           1 |           1 |      1 |              1 |         1 |          1 |          1 |          1 |
+Data   |    10.0000 |       1 |              1 |          1 |            1 |           1 |           1 |           1 |      1 |              1 |         1 |          1 |          1 |          1 |

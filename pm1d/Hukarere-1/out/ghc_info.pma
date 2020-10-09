@@ -1,0 +1,205 @@
+      AvSurfaceDens 2 800 1
+OGtype
+TopLayer 1 1
+PSE 1 1 9 0
+      AvSurfaceDens 2 800 1
+TopLayer 2 2
+PSE 2 1 9 0
+PSE 2 2 8 0
+      AvSurfaceDens 2 800 1
+TopLayer 3 2
+PSE 3 1 9 0
+PSE 3 2 8 0
+      AvSurfaceDens 2 800 1
+TopLayer 4 3
+PSE 4 1 9 0
+PSE 4 2 8 0
+PSE 4 3 7 0
+      AvSurfaceDens 2 800 1
+TopLayer 5 3
+PSE 5 1 9 0
+PSE 5 2 8 0
+PSE 5 3 7 0
+      AvSurfaceDens 2 800 1
+TopLayer 6 3
+PSE 6 1 9 0
+PSE 6 2 8 0
+PSE 6 3 7 0
+      AvSurfaceDens 2 800 1
+TopLayer 7 4
+PSE 7 1 9 0
+PSE 7 2 8 0
+PSE 7 3 7 0
+PSE 7 4 6 0
+      AvSurfaceDens 2 800 1
+TopLayer 8 4
+PSE 8 1 9 0
+PSE 8 2 8 0
+PSE 8 3 7 0
+PSE 8 4 6 0
+      AvSurfaceDens 2 800 1
+TopLayer 9 4
+PSE 9 1 9 0
+PSE 9 2 8 0
+PSE 9 3 7 0
+PSE 9 4 6 0
+      AvSurfaceDens 2 800 1
+TopLayer 10 4
+PSE 10 1 9 0
+PSE 10 2 8 0
+PSE 10 3 7 0
+PSE 10 4 6 0
+      AvSurfaceDens 2 800 1
+TopLayer 11 5
+PSE 11 1 9 0
+PSE 11 2 8 0
+PSE 11 3 7 0
+PSE 11 4 6 0
+PSE 11 5 5 0
+      AvSurfaceDens 2 800 1
+TopLayer 12 5
+PSE 12 1 9 0
+PSE 12 2 8 0
+PSE 12 3 7 0
+PSE 12 4 6 0
+PSE 12 5 5 0
+      AvSurfaceDens 2 800 1
+TopLayer 13 5
+PSE 13 1 9 0
+PSE 13 2 8 0
+PSE 13 3 7 0
+PSE 13 4 6 0
+PSE 13 5 5 0
+      AvSurfaceDens 2 800 1
+TopLayer 14 5
+PSE 14 1 9 0
+PSE 14 2 8 0
+PSE 14 3 7 0
+PSE 14 4 6 0
+PSE 14 5 5 0
+      AvSurfaceDens 2 800 1
+TopLayer 15 5
+PSE 15 1 9 0
+PSE 15 2 8 0
+PSE 15 3 7 0
+PSE 15 4 6 0
+PSE 15 5 5 0
+      AvSurfaceDens 2 800 1
+TopLayer 16 5
+PSE 16 1 9 0
+PSE 16 2 8 0
+PSE 16 3 7 0
+PSE 16 4 6 0
+PSE 16 5 5 0
+      AvSurfaceDens 2 800 1
+TopLayer 17 5
+PSE 17 1 9 0
+PSE 17 2 8 0
+PSE 17 3 7 0
+PSE 17 4 6 0
+PSE 17 5 5 0
+      AvSurfaceDens 2 800 1
+TopLayer 18 5
+PSE 18 1 9 0
+PSE 18 2 8 0
+PSE 18 3 7 0
+PSE 18 4 6 0
+PSE 18 5 5 0
+      AvSurfaceDens 2 800 1
+TopLayer 19 6
+PSE 19 1 9 0
+PSE 19 2 8 0
+PSE 19 3 7 0
+PSE 19 4 6 0
+PSE 19 5 5 0
+PSE 19 6 4 0
+      AvSurfaceDens 2 800 1
+TopLayer 20 6
+PSE 20 1 9 0
+PSE 20 2 8 0
+PSE 20 3 7 0
+PSE 20 4 6 0
+PSE 20 5 5 0
+PSE 20 6 4 0
+      AvSurfaceDens 2 800 1
+TopLayer 21 7
+PSE 21 1 9 0
+PSE 21 2 8 0
+PSE 21 3 7 0
+PSE 21 4 6 0
+PSE 21 5 5 0
+PSE 21 6 4 0
+PSE 21 7 3 1
+      AvSurfaceDens 2 800 1
+TopLayer 22 8
+PSE 22 1 9 0
+PSE 22 2 8 0
+PSE 22 3 7 0
+PSE 22 4 6 0
+PSE 22 5 5 0
+PSE 22 6 4 0
+PSE 22 7 3 1
+PSE 22 8 2 0
+      AvSurfaceDens 2 800 1
+TopLayer 23 8
+PSE 23 1 9 0
+PSE 23 2 8 0
+PSE 23 3 7 0
+PSE 23 4 6 0
+PSE 23 5 5 0
+PSE 23 6 4 0
+PSE 23 7 3 1
+PSE 23 8 2 0
+      AvSurfaceDens 2 800 1
+TopLayer 24 8
+PSE 24 1 9 0
+PSE 24 2 8 0
+PSE 24 3 7 0
+PSE 24 4 6 0
+PSE 24 5 5 0
+PSE 24 6 4 0
+PSE 24 7 3 1
+PSE 24 8 2 0
+      AvSurfaceDens 2 800 1
+TopLayer 25 8
+PSE 25 1 9 0
+PSE 25 2 8 0
+PSE 25 3 7 0
+PSE 25 4 6 0
+PSE 25 5 5 0
+PSE 25 6 4 0
+PSE 25 7 3 1
+PSE 25 8 2 0
+      AvSurfaceDens 2 800 1
+TopLayer 26 9
+PSE 26 1 9 0
+PSE 26 2 8 0
+PSE 26 3 7 0
+PSE 26 4 6 0
+PSE 26 5 5 0
+PSE 26 6 4 0
+PSE 26 7 3 1
+PSE 26 8 2 0
+PSE 26 9 1 0
+      AvSurfaceDens 2 800 1
+TopLayer 27 9
+PSE 27 1 9 0
+PSE 27 2 8 0
+PSE 27 3 7 0
+PSE 27 4 6 0
+PSE 27 5 5 0
+PSE 27 6 4 0
+PSE 27 7 3 1
+PSE 27 8 2 0
+PSE 27 9 1 0
+      AvSurfaceDens 2 800 1
+TopLayer 28 9
+PSE 28 1 9 0
+PSE 28 2 8 0
+PSE 28 3 7 0
+PSE 28 4 6 0
+PSE 28 5 5 0
+PSE 28 6 4 0
+PSE 28 7 3 1
+PSE 28 8 2 0
+PSE 28 9 1 0

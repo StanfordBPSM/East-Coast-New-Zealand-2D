@@ -1,0 +1,21 @@
+c
+c Standard Content
+c
+Head   |  ID   | Level |         Name         |
+Key    |  ID   | Level |      NameInTree      |
+Stop-------------------------------------------
+Format |  %4d  |  %2d  |          %s          |
+Flag   |   0   |   0   |          0           |
+c----------------------------------------------
+Data   |  8720 |     1 | Weber_Map            |
+Data   |  8721 |     1 | Wanstead_Map         |
+Data   |  8722 |     1 | Waipawa_Map          |
+Data   |  8723 |     1 | Upper_Calcareous_Map |
+Data   |  8724 |     1 | Whangai_Map          |
+Data   |  8725 |     1 | Glenburn_Top_Map     |
+Data   |  8726 |     1 | Glenburn_Top_1_Map   |
+Data   |  8727 |     1 | Glenburn_Top_2_Map   |
+Data   | 34083 |     1 | Glenburn_Top_3_Map   |
+Data   | 38611 |     1 | Glenburn_Map         |
+Data   | 38610 |     1 | Glenburn_1_Map       |
+Data   | 38609 |     1 | Glenburn_2_Map       |

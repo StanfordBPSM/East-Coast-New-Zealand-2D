@@ -1,0 +1,17 @@
+c
+c Standard Content
+c
+Head   |  ID   | Level |       Name       |
+Key    |  ID   | Level |    NameInTree    |
+Stop---------------------------------------
+Format |  %4d  |  %2d  |        %s        |
+Flag   |   0   |   0   |        0         |
+c------------------------------------------
+Data   | 60669 |     1 | Torlesse_Map     |
+Data   | 60670 |     1 | Torlesse_1_Map   |
+Data   | 60671 |     1 | Torlesse_2_Map   |
+Data   | 60672 |     1 | Torlesse_3_Map   |
+Data   | 60673 |     1 | Torlesse_4_Map   |
+Data   | 60674 |     1 | Decollemont_Map  |
+Data   | 60675 |     1 | Decollemont1_Map |
+Data   | 60676 |     1 | Base_Map         |

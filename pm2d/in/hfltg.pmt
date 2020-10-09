@@ -1,0 +1,10 @@
+c
+c Heat Flow Trend Groups
+c
+Head   | ID  | Assigned |         Name         |
+Key    | ID  | Assigned |         Name         |
+Stop--------------------------------------------
+Format | %3d |   %1d    |          %s          |
+Flag   |  0  |    0     |          0           |
+c-----------------------------------------------
+Data   |   2 |       -1 | HF_HB_Opoutama_Calib |

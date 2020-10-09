@@ -1,0 +1,209 @@
+*****************************************************
+
+    H e r m e s     Finite Element Simulation
+  ---------------   for Basin Modeling Analysis
+
+      Version:  2013.2
+      Released: Nov 12 2013
+      Platform: WIN64
+
+*****************************************************
+Using 1 Processor:
+  0  ES-HIKURANGI.stanford.edu
+Model name: D:/Blair/New Zealand/BPSM/Petromod Models/East Coast Basin_v2013/pm1d/Waingaromia-1
+Date/Time Wed Mar 19 12:58:54 2014
+MPI thread support: 1 (Funneled: 1)
+----------------------------------------------------------
+               List of Run Control Options :
+----------------------------------------------------------
+Option: dimension                       1     ( 1d )
+Option: max time step duration          10 Ma 
+Option: min migration steps             1 per time step
+Option: fault model                     none
+Option: use previous run to optimize    no
+Option: write T and P for all timesteps no
+Option: sampling                        no
+Option: overlay format version          10
+Option: overlay float compression       yes
+Option: write esrii files               yes
+----------------------------------------------------------
+               List of Solver Options :
+----------------------------------------------------------
+Solver: using SCAI SAMG Solver
+----------------------------------------------------------
+               List of Migration Options :
+----------------------------------------------------------
+Option: model                           generation only
+Option: open sides                      yes
+Option: permeability threshold          30% porosity 
+----------------------------------------------------------
+               License Checkout
+----------------------------------------------------------
+No of Elements: 3
+----------------------------------------------------------
+               List of Lithologies :
+----------------------------------------------------------
+            Index   ID    Name
+            -----   --    ----
+Lithology:      1 100880    Sst33_Slt33_Congl33
+Lithology:      2 100881    Sst5_Sh95
+----------------------------------------------------------
+               List of Components :
+----------------------------------------------------------
+            Index   ID    Name
+            -----   --    ----
+Component:      1   66    Water
+
+PVT Model: Flash
+EoS Model: Peng Robinson
+Viscosity Model: Simple
+----------------------------------------------------------
+               List of Facies : 
+----------------------------------------------------------
+         Idx LithIdx Name
+         --- ------- ----
+Facies:    1     1   Facies_1
+Facies:    2     2   Facies_2
+----------------------------------------------------------
+               List of Layers :
+----------------------------------------------------------
+Layer:       1    Waingaromia MS
+Layer:       2    Alluvium
+----------------------------------------------------------
+               List of Events :
+----------------------------------------------------------
+                                          Output Classes     
+                                      P C G T C   M P F M V V
+                                    G r o e e a S a e l i o s
+                                    e e m o m l a s t t g l r
+                                    n s p m p i t s P P r s f
+Event     Start  Duration  TSteps   - - - - - - - - - - - - -
+    1    18.700     3.600       2   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    2    15.100    14.100       2   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+    3     1.000     1.000       1   Y Y Y Y Y Y Y Y Y Y Y Y Y 
+----------------------------------------------------------
+   Optimization Run : 1 ( 2 )   Risk Run : 1 ( 1 ) 
+----------------------------------------------------------
+               Allocation of the Models :                 
+----------------------------------------------------------
+     Pressure Analysis
+     Compaction Model 
+     Heat Analysis
+----------------------------------------------------------
+
+Start simulation run number: 1
+Event:   1 (  3 )   Timestep:    1 (   5 )   Migstep:    1
+  Geologic time span: 18.700 to 15.100 Ma
+  started at Date/Time Wed Mar 19 12:58:54 2014
+Event:   2 (  3 )   Timestep:    3 (   5 )   Migstep:    3
+  Geologic time span: 15.100 to 1.000 Ma
+  started at Date/Time Wed Mar 19 12:58:54 2014
+Event:   3 (  3 )   Timestep:    5 (   5 )   Migstep:    5
+  Geologic time span: 1.000 to 0.000 Ma
+  started at Date/Time Wed Mar 19 12:58:54 2014
+  event done Date/Time Wed Mar 19 12:58:54 2014
+
+ --------------------------------
+
+ Simulation Run Successful !  
+ Optimization:  2.58959 % relative difference (Largest difference: 2.6476 %)
+
+ --------------------------------
+
+ --------------------------------
+
+ CPU Times:
+
+ Preprocessor                          0   sec,     0.00 %
+ Pressure Analysis                     0   sec,     0.00 %
+ Compaction                            0   sec,     0.00 %
+ Heat Analysis                         0   sec,     0.00 %
+ Misc. Output                          0   sec,     0.00 %
+ PetroCharge Final                     0   sec,     0.00 %
+ Postprocessor                         0   sec,     0.00 %
+ Total                                 0   sec,   100.00 %
+
+ incl. Percol. (Fault)                 0   sec,     0.00 %
+ incl. Percol. (Break Through)         0   sec,     0.00 %
+ incl. Overlay Output                  0   sec,     0.00 %
+
+ --------------------------------
+
+Date/Time Wed Mar 19 12:58:54 2014
+----------------------------------------------------------
+   Optimization Run : 2 ( 2 )   Risk Run : 1 ( 1 ) 
+----------------------------------------------------------
+               Allocation of the Models :                 
+----------------------------------------------------------
+     Pressure Analysis
+     Compaction Model 
+     Heat Analysis
+     Biomarker Kinetics No.1
+     Biomarker Kinetics No.2
+     Biomarker Kinetics No.3
+     Single Reaction Kinetic No.1
+     Single Reaction Kinetic No.2
+     Single Reaction Kinetic No.3
+     Single Reaction Kinetic No.4
+     TTI Kinetics 
+     Migration Model
+----------------------------------------------------------
+
+----------------------------------------------------------
+               List of Kinetics :
+----------------------------------------------------------
+
+Facies - Kinetics Assignment - 
+
+No - Secondary Cracking Defined --- 
+
+Start simulation run number: 1
+Event:   1 (  3 )   Timestep:    1 (   5 )   Migstep:    1
+  Geologic time span: 18.700 to 15.100 Ma
+  started at Date/Time Wed Mar 19 12:58:54 2014
+Event:   2 (  3 )   Timestep:    3 (   5 )   Migstep:    3
+  Geologic time span: 15.100 to 1.000 Ma
+  started at Date/Time Wed Mar 19 12:58:54 2014
+Event:   3 (  3 )   Timestep:    5 (   5 )   Migstep:    5
+  Geologic time span: 1.000 to 0.000 Ma
+  started at Date/Time Wed Mar 19 12:58:54 2014
+  event done Date/Time Wed Mar 19 12:58:54 2014
+
+ --------------------------------
+
+ Simulation Run Successful !  
+ Optimization:  0.399569 % relative difference (Largest difference: 0.408519 %)
+
+ --------------------------------
+
+ --------------------------------
+
+ CPU Times:
+
+ Preprocessor                          0   sec,     0.00 %
+ Pressure Analysis                     0   sec,     0.00 %
+ Compaction                            0   sec,     0.00 %
+ Heat Analysis                         0   sec,     0.00 %
+ Biomarker Kinetics                    0   sec,     0.00 %
+ Biomarker Kinetics                    0   sec,     0.00 %
+ Biomarker Kinetics                    0   sec,     0.00 %
+ Reaction Kinetics                     0   sec,     0.00 %
+ Reaction Kinetics                     0   sec,     0.00 %
+ Reaction Kinetics                     0   sec,     0.00 %
+ Reaction Kinetics                     0   sec,     0.00 %
+ TTI Kinetics                          0   sec,     0.00 %
+ Migration                             0   sec,     0.00 %
+ Misc. Output                          0   sec,     0.00 %
+ PetroCharge Final                     0   sec,     0.00 %
+ Postprocessor                         0   sec,     0.00 %
+ Total                                 0   sec,   100.00 %
+
+ incl. Percol. (Fault)                 0   sec,     0.00 %
+ incl. Percol. (Break Through)         0   sec,     0.00 %
+ incl. Overlay Output                  0   sec,     0.00 %
+
+ --------------------------------
+
+Date/Time Wed Mar 19 12:58:54 2014
+Simulation finished at: Date/Time Wed Mar 19 12:58:54 2014
+System End

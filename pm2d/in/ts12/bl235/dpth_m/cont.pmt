@@ -1,0 +1,20 @@
+c
+c Standard Content
+c
+Head   |  ID   | Level |         Name         |
+Key    |  ID   | Level |      NameInTree      |
+Stop-------------------------------------------
+Format |  %4d  |  %2d  |          %s          |
+Flag   |   0   |   0   |          0           |
+c----------------------------------------------
+Data   | 20820 |     1 | Upper_Calcareous_Map |
+Data   | 20821 |     1 | Whangai_Map          |
+Data   | 20822 |     1 | Glenburn_Top_Map     |
+Data   | 20823 |     1 | Glenburn_Top_1_Map   |
+Data   | 20824 |     1 | Glenburn_Top_2_Map   |
+Data   | 34125 |     1 | Glenburn_Top_3_Map   |
+Data   | 34124 |     1 | Glenburn_Map         |
+Data   | 34123 |     1 | Glenburn_1_Map       |
+Data   | 38656 |     1 | Glenburn_2_Map       |
+Data   | 38655 |     1 | Glenburn_3_Map       |
+Data   | 38654 |     1 | Glenburn_Sub1_Map    |
