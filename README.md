@@ -11,4 +11,4 @@ sites are based on locations from Hollis et al. (2005) and references therein. W
 
 Stratigraphy of the present day 2D basin and petroleum system model for seismic line CM05-01 in Hawke Bay. The transect is sub-divided by a red dashed line into four structural sections: Inboard, Lachlan Basin, Lachlan Footwall, and Outboard. LR = Lachlan ridge.
 
-To find out more, and for references to Yao's thesis and papers, please visit bpsm.stanford.edu. We'd love to hear from you if you found this useful!
+To find out more, and for references to this thesis and papers, please visit bpsm.stanford.edu. We'd love to hear from you if you found this useful!
